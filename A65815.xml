@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Israea agchithanes, Deaths alarum, or, The presage of approaching death given in a funeral sermon, preached at St. Peters in Norwich, September 30, 1656, for the Right Reverend Joseph Hall, D.D. late Bishop of Norwich, who upon the 8 day of Septem. 1656, Anno ætatis suæ 82. was gathered to the spirits of the just that are made perfect / by John Whitefoote ...</title>
+            <author>Whitefoote, John, 1610-1699.</author>
+         </titleStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 57 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65815</idno><idno type="EEBO-CITATION">12290193</idno>
+  <idno type="VID">58874</idno>
+  <idno type="EEBO-PROQUEST">2240953004</idno>
+  
+            <idno type="STC">Wing W1863</idno>
+            <idno type="STC">ESTC R19726</idno>
+            <idno type="OCLC">12290193</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A65815)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58874)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 930:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Israea agchithanes, Deaths alarum, or, The presage of approaching death given in a funeral sermon, preached at St. Peters in Norwich, September 30, 1656, for the Right Reverend Joseph Hall, D.D. late Bishop of Norwich, who upon the 8 day of Septem. 1656, Anno ætatis suæ 82. was gathered to the spirits of the just that are made perfect / by John Whitefoote ...</title>
+                  <author>Whitefoote, John, 1610-1699.</author>
+               </titleStmt>
+               <extent>[14], 81, [17] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Godbid, for Edward Dod ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Greek at head of title.</note>
+                  <note>Errata: p. [15]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hall, Joseph, 1574-1656.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Genesis XLVII, 29 --  Sermons.</term>
+               <term type="topical_term">Death --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:58874:1"/>
+            <p>
+               <figure>
+                  <figDesc>portrait of Joseph Hall</figDesc>
+                  <p>VERA EFFIGIES REVERENDI DO.<seg rend="sup">NI</seg>
+                     <lb/> IOSEPHI HALL NORV̄IC EPISCOPI.<lb/> OBITT SEPTEMBRIS. VIII. ANNO DOM̄: 1656.<lb/> AETATIS SUAE 82:</p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:58874:1"/>
+            <p>ἸΣΡΑΗΑ ἈΓΧΙΘΑΝΗΣ.</p>
+            <p>
+               <hi>DEATHS ALARƲM,</hi> OR <hi>The Presage of approaching Death:</hi> GIVEN IN A FUNERAL SERMON, Preached at St. PETERS in <hi>Norwich, September</hi> 30, 1656.</p>
+            <p>For the Right Reverend. JOSEPH HALL, D. D. Late L. Bishop of <hi>NORWICH.</hi> Who upon the 8 day of <hi>Septem.</hi> 1656. <hi>Anno Aetatis suae</hi> 82. was gathered to the Spirits of the Just that are made perfect.</p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <bibl>
+                  <hi>Themist. apud Stob. c. 119.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <bibl>
+                  <hi>Plotinus Expirans. Synesius Epist. 138.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Id agendum est ut satis vixerimus.</p>
+               <bibl>
+                  <hi>Sen. Ep. 23.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Ut satis vixerimus, nec anni, nec dies facient, sed animus.</p>
+               <bibl>
+                  <hi>Sen. Ep. 62.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>John Whitefoote</hi> M. A. And Rector of <hi>Heigham</hi> near <hi>Norwich.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>W. Godbid,</hi> for <hi>Edward Dod</hi> at the <hi>Gun</hi> in <hi>Ivy-lane, M.DC.LVI.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:58874:2"/>
+            <pb facs="tcp:58874:2"/>
+            <head>To the Reverend His much honored Friend ROBERT HALL, D. D. Eldest Son to the Right Reverend <hi>JOSEPH,</hi> late L. B. of <hi>Norwich.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is an undou<g ref="char:EOLhyphen"/>bted Canon of the Apo<g ref="char:EOLhyphen"/>stles, That the Elder that rules well, and espe<g ref="char:EOLhyphen"/>cially that labours (too)
+<pb facs="tcp:58874:3"/>in the Word and Doctrine, should be counted worthy of <hi>double honour.</hi> Such an One was your Reverend Father, by the good report of all Men, and of the Truth it self. And the <hi>dou<g ref="char:EOLhyphen"/>ble honour</hi> that the Apostle allowed him, he was once by the bounty of his Chri<g ref="char:EOLhyphen"/>stian Prince, worthily pos<g ref="char:EOLhyphen"/>sessed of; though of late (as we all know) he was <hi>muzzled</hi> from the Enjoy<g ref="char:EOLhyphen"/>ment thereof. But <hi>Envy</hi> it self (and if there be any thing worse) cannot
+<pb facs="tcp:58874:3"/>deprive him of his <hi>double honour:</hi> One part whereof he hath already enjoyed in his life time, in the Hearts, Tongues, and Pens of those that lived with him in this and other Nations. The second part remains still due to him, after his Death, which he cannot want, whiles there are any living whose Tongues are capable of giving a true praise.</p>
+            <p>This poor Peece was de<g ref="char:EOLhyphen"/>signed to that just end; that is, next to the <hi>Glory
+<pb facs="tcp:58874:4"/>of God,</hi> to the <hi>due Ho<g ref="char:EOLhyphen"/>nour of his Faithful Ser<g ref="char:EOLhyphen"/>vant.</hi> That it is no more worthy of his <hi>Name,</hi> is a second part of my sor<g ref="char:EOLhyphen"/>row, for his Death. It contains a short Represen<g ref="char:EOLhyphen"/>tation of him taken in haste; (as all pictures are which are done after the parties death) yet might it have been done neerer to the life, had it not fallen into a very unskilful hand: But besides that, it hath the common disadvantage of all <hi>Writings,</hi> which are but the
+<pb facs="tcp:58874:4"/>dead Shadows of the living Voyce; and therefore no marvail, if this wants much of that little Grace and Vivacity, which it might seem to have in the delive<g ref="char:EOLhyphen"/>ry.</p>
+            <p>Such as it is (Sir) it was (without consulting my voyce) voted to the Press, by them that heard it, and as much desired by them that heard it not, be<g ref="char:EOLhyphen"/>cause they heard not of it till it was past the reach of the Ear. And they were neither few, nor sleight persons that
+<pb facs="tcp:58874:5"/>were much discontented at their absence from the too private <hi>Commemoration</hi> of so Worthy a Person, caused by the sudden de<g ref="char:EOLhyphen"/>termination of the Time: To give them some satis<g ref="char:EOLhyphen"/>faction, I was enforced to yeeld to the Publication of these Notes. Whereto I was also encouraged, be<g ref="char:EOLhyphen"/>cause promised by the kind judgements of them that heard them, that they could not but find some good en<g ref="char:EOLhyphen"/>tertainment from most men, for his sake, of whom they
+<pb facs="tcp:58874:5"/>represent so willing (though weak) a <hi>remembrance.</hi> I hope also they may afford some present satisfaction to the many that justly expect a better account of his Life; w<seg rend="sup">ch</seg> in your name (by whom it is best able to be done) I here presume to promise, in convenient time; and that the rather, because I am not ignorant of your being furnished of some Modest and yet Remark<g ref="char:EOLhyphen"/>able <hi>Collections</hi> thereof, left by his owne Pen. I doubt not but that you
+<pb facs="tcp:58874:6"/>esteem it a special part of your owne <hi>Duty,</hi> as well as your <hi>Honour,</hi> to fol<g ref="char:EOLhyphen"/>low the <hi>streight steps</hi> of his <hi>Industrious</hi> and <hi>Holy Life.</hi> And to afford the <hi>president</hi> thereof to the Imitation of others, will be a kindness very seasonable in these evil dayes. And very useful it may bee (after many others of the Ancient Bishops Lives, now forgotten, than which it is certain there never were any more Saint-like,
+<pb facs="tcp:58874:6"/>since those of their Pre<g ref="char:EOLhyphen"/>decessors the Apostles) towards a Demonstration that <hi>Prelacie</hi> and <hi>Piety</hi> are not such inconsistent things, as some would make them; And that the Men which are of, or for that Order, should not be ex<g ref="char:EOLhyphen"/>cluded (as by the <hi>Mo<g ref="char:EOLhyphen"/>nopolizers</hi> of that Name they now are) from the number of <hi>Saints;</hi> and con<g ref="char:EOLhyphen"/>sequently not debarred from that which is now asserted to be the common interest,
+<pb facs="tcp:58874:7"/>and indefeisible right of all Saints of whatever per<g ref="char:EOLhyphen"/>swasion; that is the <hi>li<g ref="char:EOLhyphen"/>berty</hi> (if not of <hi>Disci<g ref="char:EOLhyphen"/>pline,</hi> yet) of <hi>Wor<g ref="char:EOLhyphen"/>shipping God,</hi> according to their <hi>Conscience,</hi> and the best light of their owne <hi>Understanding.</hi>
+            </p>
+            <p>To conclude: Your nea<g ref="char:EOLhyphen"/>rest Relation claims the prime Interest in whatsoe<g ref="char:EOLhyphen"/>ver shall pretend to your Fathers Name; and there<g ref="char:EOLhyphen"/>fore this Sir, (which is to be reckon'd <hi>inter pa<g ref="char:EOLhyphen"/>rentalia)</hi>
+               <pb facs="tcp:58874:7"/>is with the Au<g ref="char:EOLhyphen"/>thor</p>
+            <closer>
+               <signed>
+                  <hi>Yours at Command<lb/> to serve you in<lb/> the Lord,<lb/> J. W.</hi>
+               </signed>
+               <dateline>
+                  <hi>From my Stu<g ref="char:EOLhyphen"/>dy<lb/> in St.</hi> Peters<lb/> Norwich, <date>Nov.<lb/>
+                     <hi>10. 1656.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:58874:8"/>
+            <pb n="1" facs="tcp:58874:8"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>GENESIS 47.29.</hi>
+                  </bibl>
+                  <p>And the time drew nigh that <hi>Israel</hi> must die.</p>
+               </q>
+            </epigraph>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">I</seg>N the Funeral Ser<g ref="char:EOLhyphen"/>mons of the Anti<g ref="char:EOLhyphen"/>ents, the person deceas'd was the onely Text; and the Sermon no<g ref="char:EOLhyphen"/>thing but an Ana<g ref="char:EOLhyphen"/>tomy Lecture upon the dead mans life. Should I have imitated that custome upon this occasion, by taking no other Text, than that of this Saints life; That which the Psalmist saith of the life of man, would (very like) have been the censure of my <hi>Sermon;</hi> name<g ref="char:EOLhyphen"/>ly,
+<note place="margin">
+                     <hi>Psal.</hi> 90.9.</note> That it was but <hi>as a tale that was told.</hi> But methinks I might have had a sufficient Apology for that, not from
+<pb n="2" facs="tcp:58874:9"/>the custom of the Fathers only, but from Scripture it self; a good part whereof is altogether taken up with a Narrative of the lives of Saints; and those too, not altogether Canonical in every line. And we have a Saint to speak of (I think I may presume to say) as eminent an one as some of them.</p>
+               <p>But yet I hold my self by modern custom obliged to chuse another Text, first, or last; and I thought it would do best to give it the Precedence; you have heard already what it is, short, and plain, agreeable to the design of my discourse upon it, which must be short, because I have another Text to take up, when I have done with this; and plain, because that suits best with my own abilities, and the sadness of the occasion. <hi>And the time drew nigh that Israel must die.</hi> So it is in the English Paraphrase; for a verbal Translation according to the Hebrew Text, would run thus; <hi>And the days of Israel drew near to die.</hi> And so our Translatour renders the same words, 1 <hi>Kings</hi> 21. <hi>Deut.</hi> 31.14. But I shall not take up<g ref="char:EOLhyphen"/>on
+<pb n="3" facs="tcp:58874:9"/>me to correct the present Transla<g ref="char:EOLhyphen"/>tion, because it agrees well enough with the sense, and better with the words too, than that of the Vulgar La<g ref="char:EOLhyphen"/>tine, as I shall have occasion to shew by and by.</p>
+               <p>Four things I have to consider in this Text: First, the necessity of <hi>Is<g ref="char:EOLhyphen"/>raels</hi> death, <hi>Israel must die.</hi> 2. The time of his death, there was a certain time when <hi>Israel</hi> must die. 3. The appropinquation of that time, <hi>The time drew nigh.</hi> 4. <hi>Israels</hi> foresight, and consideration of the approach of that time. This the Vulgar Latine hath di<g ref="char:EOLhyphen"/>stinctly expressed, <hi>Cúmque appropin<g ref="char:EOLhyphen"/>quare cerneret diem mortis suae, when he saw the day of his death drew nigh.</hi> That <hi>Cerneret</hi> (I confess) is an addition to the words, but not to the sense of the Text. For that <hi>Israel</hi> did foresee and consider the approach of his death, is plainly implyed, as the reason why he took such a carefull order with his son <hi>Joseph,</hi> about the place of his bu<g ref="char:EOLhyphen"/>rial, as you may read in the words fol<g ref="char:EOLhyphen"/>lowing my Text. The like order did <hi>Joseph</hi> himself give to his sons, about
+<pb n="4" facs="tcp:58874:10"/>his burial, when he saw his time to die drew nigh, <hi>Gen.</hi> 50.25, 26. Both of them were very solicitous to be buried in the land of <hi>Canaan. Lyra</hi> thinks it was, because they foresaw (by a spirit of Prophecie) that in that country there would be a resurrection of many Saints with Christ, when he should rise again, and they hoped to be of the number, and therefore would be buried there. This conceit is scarce so much as pro<g ref="char:EOLhyphen"/>bable.</p>
+               <p>But that reason which the Rabbins give, is a ridiculous absurdity; name<g ref="char:EOLhyphen"/>ly, because there shal be no resurrecti<g ref="char:EOLhyphen"/>on at all of any but Jews, and of them only in the Land of <hi>Canaan;</hi> whither all bodies that are not buried there must be rol'd through some secret bur<g ref="char:EOLhyphen"/>roughs of the earth, from their most distant places of burial, before they can be rais'd to life: This fancy is near akin to a multitude more of those mens. But the Authour to the He<g ref="char:EOLhyphen"/>brews, hath told us the true reason of their desires in this point;
+<note place="margin">
+                     <hi>Hebr.</hi> 11.22.</note>
+                  <hi>By faith Joseph when he died made mention of the departing of Israel (out of Egypt) and
+<pb n="5" facs="tcp:58874:10"/>gave commandment concerning his bones;</hi> Namely, that they should be carried with them into <hi>Canaan:</hi> Thereby de<g ref="char:EOLhyphen"/>claring his own, and confirming their faith, concerning their deliverance out of the Egyptian Thraldom, which for some time they were yet to indure, and their certain possession of the Land of Promise.</p>
+               <p>I am now to begin with the first par<g ref="char:EOLhyphen"/>ticular fore-mentioned. The death of <hi>Israel,</hi> and the necessity thereof, <hi>Isra<g ref="char:EOLhyphen"/>el must die.</hi> I told you before the Vul<g ref="char:EOLhyphen"/>gar Translator had taken the boldnesse to put in a word into the Text, and that I excused, for its agreement with and explication of the sense. But I must tell you also, he hath left out another word (instead of that) which cannot so well be excused. For hee reads, <hi>Cúmque appropinquare cerneret di<g ref="char:EOLhyphen"/>em mortis,</hi> leaving out the name of <hi>Is<g ref="char:EOLhyphen"/>rael,</hi> which is found in the Original. I am not so great a friend to that Trans<g ref="char:EOLhyphen"/>lation, as to excuse that presumpti<g ref="char:EOLhyphen"/>on, if such it were, and not rather an over-sight, left yet uncorrected, in all the Copies that I have seen.</p>
+               <pb n="6" facs="tcp:58874:11"/>
+               <p> The name of <hi>Israel</hi> is too conside<g ref="char:EOLhyphen"/>rable a word to be left out in the Text, whether we respect the person signifi<g ref="char:EOLhyphen"/>ed by that name, or the signification of the name.</p>
+               <p>First, Consider the person signified by that name, and you shall find he was as eminent an one, as any that is na<g ref="char:EOLhyphen"/>med in Scripture. And for the signi<g ref="char:EOLhyphen"/>fication of the name, you shall hear al<g ref="char:EOLhyphen"/>so, that is very considerable, and so de<g ref="char:EOLhyphen"/>clared by God himself, who both gave the name, and the true interpretation thereof. First, let us a little inquire after the person signified by this name, <hi>Israel:</hi> Who was he? The man was a <hi>Binomius,</hi> one that had two names: His Original name was <hi>Jacob</hi> (and there was a mystery in that name as you may find, <hi>Gen.</hi> 25.26. <hi>Hos.</hi> 12.3.) This name of <hi>Israel</hi> was an <hi>agnomen,</hi> an <hi>alias</hi> to the name <hi>Jacob;</hi> a new name given him by his God-father the Angel, at his confirmation: You may read the story of it, <hi>Gen.</hi> 32.28. <hi>Thy name shall be no more called Jacob but Is<g ref="char:EOLhyphen"/>rael.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Naz. A great and honorable name given
+<pb n="7" facs="tcp:58874:11"/>him for a reward of his Piety.</hi> So the Lord changed the name of <hi>Abram</hi> his Grand<g ref="char:EOLhyphen"/>father, into <hi>Abraham, Gen.</hi> 17.5. And he was the first man in the World, whose name was ever given, or chan<g ref="char:EOLhyphen"/>ged by God. And it is well noted, there never was any man received a name immediately from God, but was either an eminent person, or a Type of some great and notable matter in the Church.</p>
+               <p>There is no name in Scripture so fa<g ref="char:EOLhyphen"/>mous, as that of <hi>Israel. Pererius</hi> puts the question, why the story of <hi>Israels</hi> life, is more fully set forth than any of the Patriarchs: and gives this reason for it; because he was, <hi>Totius &amp; Solius Populi Dei Parens,</hi> the Father of all, and the only people of God, having no other children besides the twelve Pa<g ref="char:EOLhyphen"/>triarchs, the Heads of the twelve Tribes of <hi>Israel:</hi> Which cannot be said either of <hi>Abraham</hi> or <hi>Isaak:</hi> For <hi>Abraham</hi> we know had <hi>Ishmael</hi> as wel as <hi>Isaak;</hi> and so was not the Father of the Faithfull on<g ref="char:EOLhyphen"/>ly, but of the <hi>Ishmaelites</hi> too. And <hi>Isaak</hi> had <hi>Esau</hi> as well as <hi>Jacob,</hi> and so was Father of the <hi>Edomites,</hi> as well as
+<pb n="8" facs="tcp:58874:12"/>
+                  <hi>Israelites;</hi> but <hi>Jacob</hi> was Father of the <hi>Israelites</hi> only: And that ye know in the old Testament is the common name of the people of God; who are sometimes called the <hi>Children of Israel,</hi> sometimes <hi>Israel,</hi> and sometimes <hi>Isra<g ref="char:EOLhyphen"/>elites.</hi> As we are now called <hi>Christi<g ref="char:EOLhyphen"/>ans</hi> from <hi>Christ:</hi> So were the people of God of old called <hi>Israelites</hi> from this <hi>Israel.</hi> And it is observed, when speech is of the infirmities of the Church, she is called <hi>Jacob;</hi> but when her glory and valour is signified, she is called <hi>Israel. Israel</hi> had the honour first to receive his name from God himself, and then to give a name to all the peo<g ref="char:EOLhyphen"/>ple of God; yea and to God himself too, for he is frequently called, <hi>The God of Israel, The Hope of Israel, The Strength of Israel, The Rock of Israel, The King of Israel, The Saviour of Israel,</hi> &amp;c. And Christ is called, <hi>The Holy One of Israel, The Glory of Israel.</hi> Many and glo<g ref="char:EOLhyphen"/>rious things are spoken of this Name, too many to be here recounted. The summe of all is comprehended in the words that were put into <hi>Moses</hi> mouth, to speak unto <hi>Pharaoh, Exod.</hi> 4.22.
+<pb n="9" facs="tcp:58874:12"/>
+                  <hi>Thou shalt say unto Pharaoh, thus saith the Lord, Israel is my son, my first born.</hi> Or in that of the Prophet, quoted by the Apostle, <hi>The Lord said,
+<note place="margin">
+                        <hi>Mal.</hi> 1.2. <hi>Rom.</hi> 9.13.</note> I have loved Jacob</hi> (that is, <hi>Israel) and I hated Esau.</hi> He was the famous instance of Gods free and eternal election. One that was sanctified from the Womb, and in it, as is thought.
+<note place="margin">
+                     <hi>Gen.</hi> 49.26.</note>
+                  <hi>The blessings of Israel prevailed above the blessings of his father.</hi> Such was the honour of the person signified by this name.</p>
+               <p>Now for the signification of the name, I find some variety in the opi<g ref="char:EOLhyphen"/>nion of the Antients: Some will have it to signifie, <hi>Homo videns Deum, A man seeing God,</hi> as <hi>Philo,</hi> and most of the Fathers after him. Some Trans<g ref="char:EOLhyphen"/>late it, <hi>Rectus Dei, a right</hi> (or upright) <hi>man of God.</hi> This signification is oft mentioned, and sometimes approved by St. <hi>Hierom.</hi> And very true it is, that both these significations of the name, will agree very well to the per<g ref="char:EOLhyphen"/>son of <hi>Israel;</hi> and well enough with the name it self, as it may be written and pointed in Hebrew. <hi>Israel</hi> was indeed <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>a man that saw God;</hi>
+                  <pb n="10" facs="tcp:58874:13"/>and that oftner than any of the Patri<g ref="char:EOLhyphen"/>archs: We have seven or eight of his Visions recorded in Scripture, and one of them was then when he received this name, whereupon he called the place <hi>Penuel, Gen.</hi> 32.30. giving the inter<g ref="char:EOLhyphen"/>pretation; <hi>For I have seen God face to face.</hi>
+               </p>
+               <p n="2">2. <hi>Israel</hi> was <hi>Rectus Dei,</hi> a right upright man, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>viz. simplex,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in the Sept. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, saith <hi>Aquila, Gen.</hi> 25.27. a plain down<g ref="char:EOLhyphen"/>right man: our Saviour alludes to this place, <hi>John</hi> 1.47. where he saith of <hi>Nathaneel,</hi> that he was a <hi>true Israelite indeed, in whom is no guile.</hi>
+               </p>
+               <p>But the truth is, these are but hu<g ref="char:EOLhyphen"/>mane conceits of the Etymology of his name. The special and proper signi<g ref="char:EOLhyphen"/>fication and reason of this name is gi<g ref="char:EOLhyphen"/>ven by the Angel himself, that gave him that name, <hi>Gen.</hi> 32.28. <hi>Thy name shall be no more called Jacob</hi> (that is, <hi>Jacob</hi> only) <hi>but Israel, for as a Prince hast thou power with God, and with men, and hast prevailed.</hi> This is the true inter<g ref="char:EOLhyphen"/>pretation of his name, <hi>Princeps cum Deo,</hi> a Prince with God. He prevailed with
+<pb n="11" facs="tcp:58874:13"/>God, first for the blessing, and by that blessing he prevailed with men, with <hi>Laban,</hi> and with <hi>Esau,</hi> when the one followed, and the other met him with their threatning Troops; and prevail he did too like a mighty Prince with other men too; for <hi>with his Sword and his Bow,</hi> he conquer'd from the <hi>Amorite,</hi>
+                  <note place="margin">
+                     <hi>Gen.</hi> 48.22.</note> that Country which he gave to his son <hi>Joseph</hi> for a possession: <hi>Israel</hi> and <hi>Jacob</hi> too, had both names from striving and from prevailing: The first name <hi>Jacob,</hi> he received in token that he should prevail over his Brother <hi>Esau.</hi> The second name <hi>Israel,</hi> he had in Testi<g ref="char:EOLhyphen"/>mony that he had prevailed with God, and he that prevailes with God cannot be overcome by men.</p>
+               <p>But this victorious Prince, this fa<g ref="char:EOLhyphen"/>mous Victor that prevailed both with God and Men, was <hi>supplanted,</hi> was overcome at last by death, as is signi<g ref="char:EOLhyphen"/>fied in my Text; <hi>Israel</hi> must die, as well as <hi>Esau,</hi> he whom God <hi>loved,</hi> as well as he that was <hi>hated.</hi> Death is no argument of Gods hatred, <hi>neither death nor life can separate. Israel from the love of God.</hi> He that was loved of God
+<pb n="12" facs="tcp:58874:14"/>before he was born, was no less belo<g ref="char:EOLhyphen"/>ved when he was dead. If any man might have prevailed against death, or been excused from it, one should have thought <hi>Israel</hi> should: But there is no such privilege belongs to <hi>Israel;</hi> no privilege from death, that death which the Text speaks of, the death of the body. But in another sense it is true, <hi>Israel</hi> did prevail over death: Death it self with his <hi>Sting,</hi> was and shall be <hi>swallowed up in Victory by him,</hi> the Gates of Hell did not prevail over him. For the living God <hi>is the God of Abraham, and of Isaak, and of Israel,</hi> Matth. 22.32. <hi>And God is not the God of the dead, but of the living. Israel therefore</hi> is not quite dead, but stil lives, and shall do for ever.</p>
+               <p>But for all that, it was true, <hi>Israel must die.</hi> Though the word <hi>must</hi> is not in the Original Letter, yet it is in the sense. And if there had not been a necessity for <hi>Israel</hi> to die, we had not been here now to mourn over our Fa<g ref="char:EOLhyphen"/>ther <hi>Israel,</hi> that is dead. But why <hi>must?</hi> What necessity was there that <hi>Israel</hi> must die? The Original cause of
+<pb n="13" facs="tcp:58874:14"/>death, we may read in the first menti<g ref="char:EOLhyphen"/>on that is made of death, <hi>Gen.</hi> 1.17. <hi>The day thou eatest thereof thou shalt surely die.</hi> Thou, and all thine <hi>(non uni, sed universitati dicitur) moriendo mori<g ref="char:EOLhyphen"/>eris, in dying thou shalt die,</hi> that is, cer<g ref="char:EOLhyphen"/>tainly without remedy. The blasphe<g ref="char:EOLhyphen"/>mous Jews say, <hi>Adam</hi> and his posteri<g ref="char:EOLhyphen"/>ty were therefore condemned to die, because out of his posterity, there was a man to come that would make him<g ref="char:EOLhyphen"/>self a God, many such there were, but they meant it of Christ. Whereas the Scriptures (as well theirs as ours) tell us, it was because they would have made themselves Gods, listening too ambitiously to the Serpent that promi<g ref="char:EOLhyphen"/>sed them the preferment, in his <hi>eritis sicut dii, Ye shall be as Gods.</hi> But you will say, hath not Christ then redeem<g ref="char:EOLhyphen"/>ed <hi>Israel? We trust he hath,</hi> nay we are sure of it: As sure as we are that him<g ref="char:EOLhyphen"/>self the <hi>Holy One of Israel</hi> is risen from the dead; so sure we are that <hi>Israel</hi> is, and shall be redeemed from death. The Soul is redeemed from the Gates of Hell, and the body shall be redeemed from the Grave in due time, by a bles<g ref="char:EOLhyphen"/>sed
+<pb n="14" facs="tcp:58874:15"/>
+                  <hi>resurrection,</hi> which is called the <hi>re<g ref="char:EOLhyphen"/>demption of the body,</hi> Rom. 8.23. but for that redemption we must <hi>wait</hi> till the appointed time come. But is that any privilege of <hi>Israels?</hi> Shall not <hi>Esau</hi> be partaker of that redemption as well as <hi>Israel?</hi> I answer, no; and yet it is true (and an Heresie in the <hi>Soci<g ref="char:EOLhyphen"/>nians</hi> to deny it) his body shal be raised again from the Grave; But that will be no redemption from Prison, but a bringing forth to Execution. We ne<g ref="char:EOLhyphen"/>ver read of a wicked man raised from the dead in Scripture, though there be many examples of resurrection in both Testaments.</p>
+               <p>But why might not <hi>Israel</hi> be excused from dying at all, and so this miracu<g ref="char:EOLhyphen"/>lous redemption of the body be spa<g ref="char:EOLhyphen"/>red? I answer, because the Holy One of <hi>Israel</hi> (that was as well the exam<g ref="char:EOLhyphen"/>ple, as the Author of our redemption) was not excused: And we are prede<g ref="char:EOLhyphen"/>stinate to be made conformable to the Image of Christ, <hi>that he might be the first born among many brethren;</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 8.29.</note> confor<g ref="char:EOLhyphen"/>mable to his sufferings, and to his death <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Phil. 3.10.
+<pb n="15" facs="tcp:58874:15"/>
+                  <hi>Obedient,</hi> as he was so must wee be, <hi>unto the death.</hi> Our bodies are not to be made like unto his glorious body, till they be made vile by death as his was.</p>
+               <p>
+                  <hi>Israel</hi> must die in <hi>Egypt,</hi> before he can be carried into <hi>Canaan, verse</hi> 30. <hi>Flesh and Blood cannot inherit the King<g ref="char:EOLhyphen"/>dom of Heaven.</hi> That which the Apo<g ref="char:EOLhyphen"/>stle saith of <hi>Israel,</hi> is true in another sense than he meant: <hi>All is not Israel,
+<note place="margin">
+                        <hi>Rom.</hi> 9.6.</note> that is of Israel.</hi> There is an <hi>Esau</hi> strug<g ref="char:EOLhyphen"/>ling with <hi>Jacob</hi> whiles wee are in the flesh, a body of flesh striving with the spirit, and though it be <hi>supplanted</hi> by <hi>Jacob</hi> in the new birth, yet it will not be quite extirpate, till by death wee shall be delivered from this body of death. <hi>Cum hac controversia nati sumus</hi> (saith <hi>Augustine)</hi> these two Twins make a perpetual War in us, and no Peace is to be expected till they be parted by death. The Nerve of the flesh is shrunk and lam'd in the combat with the spirit, but not quite cut asun<g ref="char:EOLhyphen"/>der; And <hi>Israel</hi> halts all his life time in the flesh: <hi>Non enim est rectipes vir<g ref="char:EOLhyphen"/>tus in corpore mortali,</hi> saith <hi>Philo.</hi> Di<g ref="char:EOLhyphen"/>vines
+<pb n="16" facs="tcp:58874:16"/>are of opinion, that in all those that Christ cured of any bodily dis<g ref="char:EOLhyphen"/>ease he made a perfect cure, not of that disease only, but of all others, and did <hi>integram corporis sanitatem conferre,</hi> left no reliques of infirmity behind him. How true that is, I know not; but sure we are, it is not so in the spiritual cure. The spirits of the Just are not made perfect till death. There is a sin that cleaves close to us, that will not be put off till we be uncloathed by death. <hi>Is<g ref="char:EOLhyphen"/>rael</hi> therefore must die, that he may be free from sin. Death came in by sin, and sin goes out by death. So do the sorrows of life by those of death: <hi>Wee must die once, that wee may die unto sin;</hi> It is the only <hi>Panacea,</hi> or <hi>All-heal;</hi> no<g ref="char:EOLhyphen"/>thing but the winding-sheet can wipe away all tears from our eyes. A bar<g ref="char:EOLhyphen"/>barous kind of mercy it was of <hi>Tamber<g ref="char:EOLhyphen"/>lain,</hi> to cause all the Lepers of the coun<g ref="char:EOLhyphen"/>try to be put to death, to rid them of their misery: But in God it is a real mercy (as well as Justice) to Soul and Body too, to let men die, to free them from the Leprosie of the Soul, and the miseries of the body. <hi>Israel</hi>
+                  <pb n="17" facs="tcp:58874:16"/>must die that he may rest from his labours, and reap the fruit of them. There is no entring into Gods rest, but by this sleep. <hi>Job</hi> calls man <hi>an Hireling,</hi> Chap. 14.6. so doth our Saviour in the parable: And the Hireling servant may not betake him to his rest, nor receive his wages till night. When <hi>Moses</hi> was to die, the Lord bid him first come up, and then die, <hi>Ascende &amp; morere;</hi>
+                  <note place="margin">Naz. in land. Basilii.</note> but we must first die before we can ascend to the Mount of the Lord. There can be no perfect Visions of God, but in the night of Death; so Darknesse was before Light, and the Evening is be<g ref="char:EOLhyphen"/>fore the Morning.</p>
+               <p>We can never be perfectly pos<g ref="char:EOLhyphen"/>sessed of the glorious Liberty of the Sons of God, till we get out of the prison of the Body, and so be as the Psalmist speaks, <hi>free among the dead.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, was a common <hi>Euphe<g ref="char:EOLhyphen"/>mismus</hi> among the Greeks for a dead man; but it is indeed the proper ti<g ref="char:EOLhyphen"/>tle of a Saint. <hi>Ante obitum nemo,</hi> &amp;c. The spirit in truth, is never perfect<g ref="char:EOLhyphen"/>ly
+<pb n="18" facs="tcp:58874:17"/>alive till the body be dead. It is but as it were buried alive in the bo<g ref="char:EOLhyphen"/>dy. A kind of Mortification it is to the Soul to live in the body: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Plato.</hi> It doth neither know nor see it self, whiles it is in the flesh.</p>
+               <p>Death indeed is called Sleep usu<g ref="char:EOLhyphen"/>ally; but as <hi>Tertullian</hi> excellently shews in his book <hi>de anima,</hi> It is ra<g ref="char:EOLhyphen"/>ther an awaking of the Soul, which in the body is asleep, and doth but dream of things, and therefore is grossely mistaken in all its notions. <hi>De oppanso corporis erumpit in apertum ad meram,
+<note place="margin">
+                        <hi>Cap.</hi> 53.</note> &amp; puram, &amp; suam lucem—ut de somno emergens ab imaginibus ad veritates.</hi>
+               </p>
+               <p>To conclude this point, The Bird in the breast can never be perfectly taught to sing its Heavenly note of <hi>Halelujah</hi> till it gets out of its Cage, and be set upon the Tree of life, which is in Paradise.</p>
+               <p>We have heard of the necessity of <hi>Israels</hi> death, and some reasons of it: But what is that to us? What use may we make of this point? Why
+<pb n="19" facs="tcp:58874:17"/>this: It will afford us a double argu<g ref="char:EOLhyphen"/>ment to reconcile us to the thoughts of death. The first is that which <hi>Eli<g ref="char:EOLhyphen"/>jah</hi> used in his Petition for death, 1 <hi>Ki.</hi> 19.4. <hi>It is enough now, O Lord, take a<g ref="char:EOLhyphen"/>way my life, for I am not better than my fathers.</hi> It is enough to make us content to die, though perhaps not ground enough, to warrant us to pray for it, as <hi>Elijah</hi> did, not with out some spice of impatience, as is judged; but to make us content to die, this is <hi>e<g ref="char:EOLhyphen"/>nough,</hi> that <hi>we are not better than our Fathers.</hi> It is a forlorn errour to think that company wil abate the misery of the second death; but of the first it may, especially when it is so good. <hi>Is<g ref="char:EOLhyphen"/>rael</hi> is dead, and so is <hi>Isaak,</hi> and <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> and all the Fathers: And are we better than they? We shall fare no worse than they in dying, if we be their children, and to desire to fare better than any of them, were worse than a Vanity. It were too much pride to think our selves so good as they. And as wee are not so good in our lives, so neither is our condi<g ref="char:EOLhyphen"/>tion
+<pb n="20" facs="tcp:58874:18"/>so good as theirs whilest wee live, but when we die it may, for then we shall <hi>bee gathered to our Fathers.</hi>
+               </p>
+               <p>And that's another good Argument to reconcile us to death; because thereby we shal be <hi>gathered to our Fa<g ref="char:EOLhyphen"/>thers;</hi> as is said of <hi>Abram</hi> and many o<g ref="char:EOLhyphen"/>thers of the holy fathers; so it is said of <hi>Israel</hi> when he died, he <hi>was gathered to his people,</hi> Gen. 49.33. That phrase is primarily meant of the Body, which goeth to the Grave, <hi>the house appointed for all living,</hi> as <hi>Job</hi> calls it, <hi>Job</hi> 30.23. Yet may it be understood of the Soul too, which by death is gather<g ref="char:EOLhyphen"/>ed to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, the Congregation-house of Souls, or the <hi>World of Souls:</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as the Hebrews call it. And the Souls of Gods Saints are gathered <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">
+                     <hi>Hebr.</hi> 12.13.</note>
+                  <hi>To the general assembly and Church of the first born, which are written</hi> (in albo coele<g ref="char:EOLhyphen"/>sti) <hi>in Heaven, and to the Spirits of just men made perfect.</hi> There we shall meet with <hi>Abraham</hi> and <hi>Isaak,</hi> and all the Fathers, with the glori<g ref="char:EOLhyphen"/>ous
+<pb n="21" facs="tcp:58874:18"/>company of the Apostles, the goodly fellowship of the Prophets, and the noble army of Martyrs.</p>
+               <p>
+                  <hi>Israel</hi> rejoiced much for the hopes he had to see his son <hi>Joseph,</hi> though it were in <hi>Egypt:</hi> How much more cause have wee to rejoyce for the hopes we have to see <hi>Israel</hi> himself, his, and our <hi>Joseph,</hi> and all the rest of our Fathers and Brethren in the Heavenly <hi>Canaan,</hi> and to see the Holy One of <hi>Israel,</hi> the glory of <hi>Is<g ref="char:EOLhyphen"/>rael,</hi> the Lord Jesus.</p>
+               <p>When the Disciples saw but two of the Fathers with Christ on Mount <hi>Tabor,</hi> cover'd with a sleight veil of glory, such as their Bodily eyes were capable of, they were so ravish'd with the sight, that they said, it was <hi>good being there,</hi> and would therefore have been <hi>building Tabernacles</hi> there to dwell, and yet themselves were but meer spectators of that glory, they were not transfigured: How much better will that Being bee, where wee shall not onely bee with Christ where he is, and behold his
+<pb n="22" facs="tcp:58874:19"/>glory (as he prayed for us:) And that with <hi>open face</hi> too, as St. <hi>Paul</hi> speaks, but shall be changed into the same Image, from Glory to Glory.</p>
+               <p>Christ is said to be <hi>with us</hi> here, (Matth. 28.29.) but we are never said to be with him in this world: He is with us by his Spirit here, but we shall be with him by our spirits when we die. <hi>Esse Christum cum Paulo magna securitas; esse Paulum cum Christo summa felicitas.</hi> Bernard. Christs presence with us by his Spi<g ref="char:EOLhyphen"/>rit is a great comfort to ours, but the heighth of glory is for us to be with him.</p>
+               <p>When <hi>Israel</hi> had seen the face of <hi>Joseph,</hi> he was content to die. Gen. 46.30. <hi>Now let me die, since I have seen thy face.</hi> And old <hi>Simeon,</hi> when he had seen Christ in the Temple, sings his owne <hi>requiem, Nunc dimit<g ref="char:EOLhyphen"/>tis. Now lettest thou thy servant depart in peace, for mine eyes have seen thy salvation.</hi> And have not we as good reason to be willing (at least) with
+<pb n="23" facs="tcp:58874:19"/>our dismission, that so we may come to see him, and his (that is, our own) salvation? <hi>Israel</hi> must die, that he may fully make good the first mentioned signification of his name, That he may <hi>see God;</hi> For the beatifical vision can never be til <hi>death</hi> hath closed the bodily eyes. It was a speech of the Heathen Orators (in his Book <hi>De Senectute</hi>) that he was much taken with a desire to see the <hi>Romane</hi> Patriots, that were dead,
+<note place="margin">
+                     <hi>Equidem off<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ror studio patr<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s vestros, <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>s coluì, &amp; <gap reason="illegible: faint" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, vid<gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ndi N<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>q<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> verò <gap reason="illegible: faint" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s solum conveatre a<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> quos ipse <gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>g<g ref="char:EOLhyphen"/>novi, sed illos etiam de quibus audivi &amp; legi.</hi> Cic. de Sen.</note> whom he loved and honoured; and not them onely whom he had seen and known before, but those that he had read, and heard of. How much more reason have we to desire to see our Fathers, and holy Friends, with all the Eminent Saints of God, that we have read, and heard of; to see them, I say, in such a state of Glory as he never dream'd of? <hi>Prae<g ref="char:EOLhyphen"/>stolatur nos Ecclesia Primitivorum, desiderant nos Sancti, expectant nos Justi,</hi> &amp;c. They expect us, (saith the deuout Abbot of <hi>Claravall</hi>) It is part of their hopeful desires to see
+<pb n="24" facs="tcp:58874:20"/>us, and bid us welcome; and shall we then be unwilling to go to them, that so kindly long and wait for us? We find in the Old Testament ma<g ref="char:EOLhyphen"/>ny of the Saints singing <hi>Loth to de<g ref="char:EOLhyphen"/>part,</hi> and deprecating their threat<g ref="char:EOLhyphen"/>ned dissolutions; which some think was, because the Promise of Eternal life was but obscurely known to them: The sight of heaven was clouded from them, as the Type of it in the Temple was hidden from the people by the Veil: But this cloud is cleared up by the Gospel, and <hi>Moses</hi> veil is taken away, Christ hath <hi>brought life and immortality to light.</hi> It becomes not Christians therefore to retain the Old Testa<g ref="char:EOLhyphen"/>ment spirit, still to shrink at the sight of Death, but to be ready to say as St. <hi>Paul</hi> did, <hi>I desire to be dissolved, and to be with Christ, which is</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>far better.</hi> The phrase looks like a Solecisme in the <hi>Greek,</hi> but we should not have gone about to mend it in <hi>English,</hi> by aba<g ref="char:EOLhyphen"/>ting the sense, in giving but one Ad<g ref="char:EOLhyphen"/>verb
+<pb n="25" facs="tcp:58874:20"/>for two; <hi>very far,</hi> or <hi>very much better,</hi> the words signifie.</p>
+               <p>What long and tedious journeys have many a devout Pilgrim taken, to see nothing but the old Land of <hi>Canaan,</hi> now turned into <hi>Aegypt;</hi> the place where sometimes the Fa<g ref="char:EOLhyphen"/>thers lived and died, but so long since, that their very graves are bu<g ref="char:EOLhyphen"/>ryed, and not to be found.</p>
+               <p>To conclude this point:</p>
+               <p>Brethren, Let us but be sure we are true <hi>Israelites</hi> indeed, in faith and holiness, and then never let us fear death.</p>
+               <p>I have done with the first point, <hi>Israels death,</hi> with the necessity, rea<g ref="char:EOLhyphen"/>son, and use of it. The second fol<g ref="char:EOLhyphen"/>lows; and that is, The <hi>Time</hi> of <hi>Is<g ref="char:EOLhyphen"/>raels</hi> death. The Royal Preacher, Eccl. 3.1. saith, <hi>To every thing there is a season, and a time to every pur<g ref="char:EOLhyphen"/>pose under the Heaven;</hi> and then by way of Induction sets down a large Catalogue of things that have their time here below. I may call it his
+<pb n="29" facs="tcp:58874:21"/>
+                  <hi>Fasciculus temporum,</hi> as an old Au<g ref="char:EOLhyphen"/>thor calls his Book: All his Instan<g ref="char:EOLhyphen"/>ces are no other than the ordinary changes of an earthly life. And it is well noted by St. <hi>Ambrose</hi> upon the first Verse, where he saith, That <hi>there is a time for every thing under the Heaven:</hi> That all things under Hea<g ref="char:EOLhyphen"/>ven are temporal, and by conse<g ref="char:EOLhyphen"/>quence mutable. But the Psalmist saith, <hi>The Heavens</hi> themselves <hi>shall be changed,</hi> Psal. 102.26. He means those visible Heavens; The Sun it self, and the Stars that are above it, as well as all things under it, shall be changed. But in the Heaven of Heavens there will be no change, because no such thing as Time will be there; All is eternal in Heaven: But under Heaven all things have their time. The lowest story of the Heavens (by the Philosophers ac<g ref="char:EOLhyphen"/>count) is that of the Moon, which is the common Emblem of Mutabi<g ref="char:EOLhyphen"/>lity; and if you count the particu<g ref="char:EOLhyphen"/>lars of <hi>Solomon</hi>'s changes in that Chap. you shall find just as many as
+<pb n="28" facs="tcp:58874:21"/>are the dayes in a common Lunary Moneth, 28. and all of them like the changes of the Moon, nothing but increasing and decreasing. The whole Set of his changes is drawn checkerwise, by a just division of white and black, good and evil things, after the pattern that God gave when he first set the division of Times, by dividing of Light from Darkness, and making each Day to divide it self into an Evening and a Morning: And the first instance that <hi>Solomon</hi> gives of his Tempora<g ref="char:EOLhyphen"/>lities, is that of the Morning and Evening of Mans life: <hi>A time to be born, and a time to die.</hi> The Pri<g ref="char:EOLhyphen"/>mitive Christians confounded the distinction of these two Times, by calling the dayes of their Martyrs deaths their <hi>Natalitia,</hi> or Birth-days. And the holy Preacher (Chap. 7 1.) prefers the time of Death before that of Birth: The Coffin before the Cradle. And though that be a Paradox, as some other things are, which he there adds, yet it is no Pa<g ref="char:EOLhyphen"/>ralogy
+<pb n="28" facs="tcp:58874:22"/>in Reason; but so evidently true, as some meer Naturalists have found reason to grant it; else would not the <hi>Thracians</hi> have wept at their Births, and rejoyc'd at their Fune<g ref="char:EOLhyphen"/>rals. I have no leisure now to un<g ref="char:EOLhyphen"/>riddle that paradox: But in the mean time it is certain there is a <hi>time to die,</hi> as sure as a <hi>time to be born;</hi> nay, more sure indeed; Never Man was born but either is dead, or must die; except some one or two, <hi>Enoch</hi> and <hi>Elias,</hi> that were privileg'd by Mira<g ref="char:EOLhyphen"/>cle: And that privilege (saith <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi>) was but a reprieve or a su<g ref="char:EOLhyphen"/>spension for a time, till Antichrist comes, and then they must be slain for the <hi>two Witnesses,</hi> spoken of by St. <hi>John,</hi> Rev. 11.7. But St. <hi>Paul</hi> hath given us another exception, namely, of all those which shall be found <hi>alive</hi> at the Resurrection, when the Lord Jesus shall come a<g ref="char:EOLhyphen"/>gain <hi>to judge both the quick and the dead:</hi> That is, not the righteous, that lived by faith; and the wicked, that died in their sins: as <hi>Augustine</hi>
+                  <pb n="29" facs="tcp:58874:22"/>and <hi>Chrysostome</hi> allegorize the words: Nor yet the Immortal Soul, and the Mortal Body, as <hi>Theophylact</hi> glos<g ref="char:EOLhyphen"/>seth the Text: But as St. <hi>Paul</hi> in<g ref="char:EOLhyphen"/>terprets, those that are <hi>alive at his coming,</hi> and those that shall be dead before, 1 Thess. 4.15, 17. <hi>For we shall not all sleep, but we all shall be changed.</hi> 1 Cor. 15.52. The Vul<g ref="char:EOLhyphen"/>gar <hi>Latine</hi> denyes that Change, and therefore hath strangely changed the Text, as may be seen. The <hi>Pontificians</hi> will not admit their ex<g ref="char:EOLhyphen"/>emption from death: And we shall not now dispute the point. But with these exceptions (and possibly some few others not recorded in Scripture) it is certain never man was born, nor shall be, but had, or must have a time to die. But many an one hath found a time to die that never was born: Their time to die having prevented their time to be born. Many have been seen dead, that never were seen alive; and ma<g ref="char:EOLhyphen"/>ny are dead, that never were seen at all. It is too plain a point to spend
+<pb n="30" facs="tcp:58874:23"/>time upon this: If <hi>Israel</hi> must die, he must have a time for it. But whe<g ref="char:EOLhyphen"/>ther that time were certain, and fix<g ref="char:EOLhyphen"/>ed,
+<note place="margin">
+                     <gap reason="illegible: faint" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note> or not, is a solemn question; large and learned debates are made about it, and strong contests between the Physician and the Divine. The question is not to bee resolved from this Text, and I have now no leisure to look into many others: But see<g ref="char:EOLhyphen"/>ing <hi>the hairs of our head are numbred,</hi> it is more than probable so are the days, yea the hours, and minutes of our lives. A Sparrow falls not to the ground without Gods Provi<g ref="char:EOLhyphen"/>dence, much lesse doth a man. The great World hath its last day set and certain to him that made it: So (sure) hath every little world; <hi>But of that day and hour knoweth no man.</hi>
+               </p>
+               <p>But certain it is to God, to whom nothing is uncertain: The Doctrine of his Prescience (except with the Socinians, we will deny the Univer<g ref="char:EOLhyphen"/>sal extant of it) will demonstrate the Truth in this question, in the af<g ref="char:EOLhyphen"/>firmative: For that which is not cer<g ref="char:EOLhyphen"/>tain
+<pb n="31" facs="tcp:58874:23"/>cannot bee certainly fore-seen. Yet will it not follow that this event and all things else are absolutely ne<g ref="char:EOLhyphen"/>cessary, by a fatal connexion, or ne<g ref="char:EOLhyphen"/>cessary operation and efficacy of their particular causes, according to the opinion of the new Stoick:
+<note place="margin">Mr. T. H.</note> To whom I can allow the name of a Phi<g ref="char:EOLhyphen"/>losopher, but not of a Christian, till hee hath recanted his <hi>Leviathan</hi> of Heresies;
+<note place="margin">
+                     <hi>page</hi> 271.</note> wherein hee allows men the liberty of an expresse denial of Christ, if the Infidel Magistrate com<g ref="char:EOLhyphen"/>mands it: So making all Martyrs Rebels to their Princes, and Murthe<g ref="char:EOLhyphen"/>rers of themselves: The man is no professed Turk (thank a Christian Magistrate) but hath told us in ef<g ref="char:EOLhyphen"/>fect he would be so (as well in other points as that of his fatality) if his Prince would have him: For the <hi>Al<g ref="char:EOLhyphen"/>choran</hi> with the civil Sanction, is by his Doctrine as Canonical as the Gospel. Whether it bee certain which <hi>Cajetan</hi> and <hi>Alvarez</hi> have re<g ref="char:EOLhyphen"/>solved, namely, That to compre<g ref="char:EOLhyphen"/>hend how the Decrees and Con<g ref="char:EOLhyphen"/>course
+<pb n="32" facs="tcp:58874:24"/>of Gods Will, doth agree with the liberty of Mans Will, (whereupon the time of death seems much to depend) is above the un<g ref="char:EOLhyphen"/>derstanding of any man in this life, I well know not: But I am willing to confesse it is above mine. Above my understanding I say it is (so are divers other mysteries of our Religi<g ref="char:EOLhyphen"/>on) but I thank God not above my Faith. For this I beleeve, That neither Gods prescience, nor his Decrees, do infer, much lesse cause any necessity in the manner of the production of their Objects: Be<g ref="char:EOLhyphen"/>cause God hath decreed, and there<g ref="char:EOLhyphen"/>fore foreseen that many things shall not be necessarily but contingently, and yet certainly produced.</p>
+               <p>But to return to the prefixed parts of my discourse. We have dispat<g ref="char:EOLhyphen"/>ched two of them: <hi>The necessity of Israels death, And the time of it:</hi> Two more are remaining, wherein I must be brief.</p>
+               <p>The next is the Appropinquation of the time, <hi>The time drew nigh, or
+<pb n="33" facs="tcp:58874:24"/>the days drew nigh that Israel must die.</hi> When <hi>Pharaoh</hi> asked him how old he was, <hi>ver.</hi> 9. he told him, <hi>his days were few.</hi> And spake it not in reference on<g ref="char:EOLhyphen"/>ly to the time past of his life; but (as he is commonly understood) with re<g ref="char:EOLhyphen"/>spect to the whole expected term thereof. And that being so, the time of his death could never bee far off. Indeed nothing can be far off, that is within the bounds of time: Much less can the day of death be so in a life that is short; and such is the longest mortal life. <hi>Israels</hi> days were few in comparison of the dayes of his fa<g ref="char:EOLhyphen"/>thers, as hee interprets himself, yet were they as many again as the ordi<g ref="char:EOLhyphen"/>nary number of mans days, by <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> his reckoning: For <hi>Israel</hi> lived 147 years, as you may read in the verse before my Text: And <hi>the days of our years,</hi> saith <hi>Moses,</hi> (Psal. 90.10.) <hi>are but seventy years,</hi> and scarce the seventieth person lives so long: and yet <hi>Moses</hi> himself lived almost twice as long, and so did his brother <hi>Aaron,</hi> but they were Extraordinaries.</p>
+               <pb n="34" facs="tcp:58874:25"/>
+               <p> The life of man in Scripture is usually reckon'd by dayes, which are the shortest natural divisions of time; And sometimes it is called but one day; and the longest mor<g ref="char:EOLhyphen"/>tal life that ever was, came short of one day, by Gods account, to whom <hi>a thousand years are but as one day.</hi> And now he that lives longest, seldom at<g ref="char:EOLhyphen"/>tains to one hour, or the twelfth part of such a day. The known shortness of life (set forth in Scripture by a multitude of similitudes) is demon<g ref="char:EOLhyphen"/>stration enough to any man, that his time to die draws nigh. But that is a comparative word admitting of many degrees: In a short way the end is alwaies near, but grows nearer the more steps a man hath set in it: So was it with <hi>Israel,</hi> he had multi<g ref="char:EOLhyphen"/>plied his steps till he was come to the stage that <hi>David</hi> spake of, 1 <hi>Sam.</hi> 20.3. <hi>There is but a step between me and death.</hi>
+               </p>
+               <p>
+                  <hi>The time drew nigh that Israel must die;</hi> now when he spake to <hi>Joseph</hi> about his burial, as followeth in the
+<pb n="35" facs="tcp:58874:25"/>Verse. But how nigh we know not precisely, no more (perhaps) did he. All the Astrologers in <hi>Aegypt</hi> could not precisely tell him the day and hour of his death: Yet have wee a company of Gypsies of that professi<g ref="char:EOLhyphen"/>on, that will pretend to do it.
+<note place="margin">
+                     <hi>De Civit. Dei. L.</hi> 5.</note> But they are well confuted by <hi>St. Augu<g ref="char:EOLhyphen"/>stine,</hi> from the example of these Twins, <hi>Jacob</hi> and <hi>Esau,</hi> whose birth<g ref="char:EOLhyphen"/>time was as near, as in nature it was possible: For <hi>Esau</hi> was not quite born before <hi>Jacob; Jacobs</hi> hand was born before <hi>Esau's</hi> foot: And yet we know the disposition of their bo<g ref="char:EOLhyphen"/>dies, and of their minds, with the manner of their lives, was as contra<g ref="char:EOLhyphen"/>ry, as if they had been born under the most opposite Horoscopes that are in the whole Sphere of Heaven. <hi>Moses</hi> was brought up in all the wis<g ref="char:EOLhyphen"/>dom and learning of <hi>Aegypt</hi> (as <hi>St. Stephen</hi> saith, <hi>Acts</hi> 7.22.) that is, in the Sciences of Physick and A<g ref="char:EOLhyphen"/>strology, the most famous learning of <hi>Aegypt;</hi> and yet could he not num<g ref="char:EOLhyphen"/>ber his own days, but prays to God
+<pb n="36" facs="tcp:58874:26"/>in his Psalm to teach him that Art, <hi>Psal.</hi> 90.12. Nor did he desire to know the precise number of his days, but only the wisdom to consider the paucity of them, so as to improve them to the honor of God, and the good of himself and his Church. To know the just time of our death, is not possible without a Revelation, and therefore not to be desired with<g ref="char:EOLhyphen"/>out presumption. It is a thing that depends much upon the Arbitrary acts of the wil of both a mans self &amp; of others (as constant experience tea<g ref="char:EOLhyphen"/>cheth) the knowledge whereof is the peculiar property of Omnisci<g ref="char:EOLhyphen"/>ence: And therefore for men to pre<g ref="char:EOLhyphen"/>tend to this knowledge from the Stars is an impiety, not much lesse than that of worshipping them, being a bold intrusion into the most pecu<g ref="char:EOLhyphen"/>liar and essential privilege of divine knowledge. It is enough for us to know as much as <hi>Israel</hi> did, that our time to die draws nigh, and so much every man doth know, that knows a<g ref="char:EOLhyphen"/>ny thing at all.</p>
+               <pb n="37" facs="tcp:58874:26"/>
+               <p>
+                  <hi>Lyra</hi> thinks <hi>Israel</hi> did know the precise time of his death by a spirit of Prophecie: And such a spirit we know he had, about that time espe<g ref="char:EOLhyphen"/>cially when his time to die drew nigh; as appeared by the Prophetical blessings which he then gave to his Sons. But to know that his time to die was nigh, he needed no Pro<g ref="char:EOLhyphen"/>phetick spirit now, when he was an old man, and bed-rid, as you may find in the end of the Chap. ver. 31. Well might he tell that his few dayes were almost spent, when his <hi>evil dayes</hi> (as <hi>Salomon</hi> calls them, Eccles. 12.1.) <hi>were come,</hi> and the years (did not now draw neer, but) were upon him, wherein he might say, <hi>I have no pleasure in them. The Sun and the Light, the Moon and the Stars were darkened.</hi> All the faculties of his Soul and Body were weak<g ref="char:EOLhyphen"/>ned. <hi>The keepers of the house trem<g ref="char:EOLhyphen"/>bled, and the strong men bowed them<g ref="char:EOLhyphen"/>selves.</hi> His arms were so weak that he could scarce strengthen them to lay them upon the heads of his Ne<g ref="char:EOLhyphen"/>phews,
+<pb n="38" facs="tcp:58874:27"/>to bless them; and his legs could no longer bear his body, so that he was fain to lie by it: <hi>They that looked out of the windows</hi> (which some understand of Glass-windows, or Spectacles) <hi>were darkened.</hi> His eyes were dim with age, Chap. 28.10. And when a man comes to that once, that he is almost blinde with age, he cannot but see that his time to die draws nigh. A man needs not to be told his Lamp is nigh out, when he sees and feels that the Oyl is spent, and knows there is no more to be bought; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Heb.</hi> 8.13.</p>
+               <p>There are many warnings of death, in diseases of the Body, pe<g ref="char:EOLhyphen"/>rils and troubles of Life, such as <hi>David</hi> met withall, when he said, <hi>My soul is full of troubles, and my life draws neer to the grave,</hi> Psa. 88.2. And some extraordinary warnings we read of, which some have had from God himself. Such as <hi>Moses, Aaron,</hi> and <hi>Hezekiah</hi> had; and the
+<pb n="39" facs="tcp:58874:27"/>rich Fool in the Gospel, <hi>Stulte hac nocte; Thou fool, this night shall thy soul be required of thee.</hi> In Humane Story there are multitudes of ex<g ref="char:EOLhyphen"/>amples of them, that have had war<g ref="char:EOLhyphen"/>nings, predictions, presages and omens of approaching death, espe<g ref="char:EOLhyphen"/>cially great persons:
+<note place="margin">Suetonius.</note> The Historian hath some of them almost in every one of his 12 <hi>Caesars.</hi> But few men were ever the wiser or the better for such uncertain, and for the most part unregarded warnings. There is no warning so infallible as that of Old age; All others may prove but false Alarums, useful to awaken men out of security, and move them to make ready: But when the Old man comes once, especially that same <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Silicernium,</hi> when he comes upon Crutches, when he is blinde and led, he brings certain tydings that death is at hand.</p>
+               <p>There are many affirmative signs of the neerness of death, that are certain, and Old age is one of them: But negative signes there are none,
+<pb n="40" facs="tcp:58874:28"/>that is, to shew that it is not neer. A young man doth not, cannot know, but that his time to dye, may be nigh, but an old man knows it is so.</p>
+               <p>Life in Scripture is sometimes compared to a Shadow,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Pindar.</hi>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Aeschylus</hi>
+                  </note> (so is death too) and the Heathen Poet made it less, but the <hi>dream of a shadow,</hi> and that but of <hi>smoak.</hi> Now shadows we know are not all of a length, some are longer, and some shorter, as life also is. But the longer the shadow is, the more like, and the more near, to night. <hi>Ier.</hi> 6.4. <hi>Lon<g ref="char:EOLhyphen"/>giores factae sunt umbrae vesperi.</hi> Life is a vanishing shadow at all times, but the longer it is, the nearer is the night of death. Indeed our present life in the flesh, is but the shadow of life to the Soul, Darkened as now it is <hi>oppanso corporis (Tertallian</hi>'s word) with the opacity of the body.
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Euripid.</hi>
+                  </note> The <hi>Greek</hi> Tragedian could not tell whether it should be called life or no. The ghosts or spirit of men when they are out of the body are usually
+<pb n="41" facs="tcp:58874:28"/>called <hi>umbrae,</hi> shadows, and that most like because of their incorporiety; But so termed they are too, from the imaginary configuration with the body, which in visions they have appeared to have; and which <hi>Tertullian</hi> and <hi>Ireneus</hi> (upon the para<g ref="char:EOLhyphen"/>ble of <hi>Lazarus</hi> and <hi>Dives</hi>) thought they really have. In which respect they are also called <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in <hi>Homer,</hi> as Images of the body; and that they are not altogether incor<g ref="char:EOLhyphen"/>poreal themselves, but have a kind of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, a splendid or lucid body, hath been the opinion of some Divines, as well as Philosophers. We use to compare old thin bodies to ghosts and shadows in common speech; And so not the old man himself, but every body that meets him, knows that his time to die draws nigh. Other men may see it, but himself must needs feel the cold, numm'd hands of Death coming upon him, before they give the fatall gripe.</p>
+               <pb n="42" facs="tcp:58874:29"/>
+               <p> Thus <hi>Israel</hi> knew that his time drew nigh that he must die. So doth every old man, and every young one too; But every one doth not <hi>consider it as</hi> Israel <hi>did.</hi> That is the last point in my method; <hi>Israel</hi>'s foresight or consideration of the appropinquation of Death. This I told you I would note from the word <hi>cerneret</hi> in the Vulgar <hi>Latin,</hi> because it agrees well with the sense, though it be not in the Originall Text. <hi>To see death</hi> in Scripture phrase is to die: But in strictness of sense Death cannot be seen, because it is nothing but darkness; and when it comes, it doth not onely close, but put out the eyes. The <hi>Angel of death</hi> (as the <hi>Jews</hi> call it) is invisible: But though it be so to bodily sense, yet is there a reasona<g ref="char:EOLhyphen"/>ble Theory to be had of Death, and nothing more unreasonable than not to foresee it. That old Prayer in the LETANY is without exce<g ref="char:EOLhyphen"/>ption in the <hi>Latin</hi> phrase, <hi>A morte
+<pb n="43" facs="tcp:58874:29"/>improvisâ libera nos Domine.</hi> Hee that doth not foresee death, cannot be provided for it; and he that is not, must needs be eternally undon by it.</p>
+               <p>We complain all of shortness of life, and need not hear so often of the Physicians Aphorisme, or the Rabbins Sentence, to perswade the truth of it: And yet so little doe we consider it, that we spend it as prodigally, as if it were too long, as indeed it is, for them that abuse it. And who almost doth not?
+<note place="margin">
+                     <hi>Non parum temporis habe<g ref="char:EOLhyphen"/>mus, sed mul<g ref="char:EOLhyphen"/>tum perdimus.</hi> Sen.</note> The time we have is not so little, as that we lose is much: Wee commonly use it as if we knew not what to doe with it, and therefore we throw away the best part of it. What large shares of it doe we squander away upon vain and idle company, and trifle away upon foolish mirth, mis<g ref="char:EOLhyphen"/>call'd recreations, vain and worse pastimes, Balls and Revels, Drolle<g ref="char:EOLhyphen"/>ries and amourous courtships? What a great deal of it doe we let the World steal from us, besides all that is necessarily due to it? How great
+<pb n="44" facs="tcp:58874:30"/>a part of it doe we suffer the Devil to run away with? How many of our few days doe we utterly waste in do<g ref="char:EOLhyphen"/>ing nothing, or worse than nothing? And is it not justice then in God to afford but a short allowance of that which he sees is and will be so much abused, to his owne dishonour, and the hurt of the unhappy possessors? Nay, is it not Mercy indeed, rather than Justice, to shorten their dayes, that will make no other use of them, than to their owne eternal ruine? And how few are they that make any better improvement of their time? Such <hi>Abaddons</hi> and <hi>Apollyons</hi> men are of their time, and therein of their owne Souls.</p>
+               <p>No time is long enough to bewail, nor words enough, or sharp enough, to reprove the wretched wast that is made of this invaluable Treasure, which so many men spend onely to <hi>treasure up wrath against the day of wrath.</hi> It is a dreadfull thing to say, but more dreadfull to see, that the main businesse that many men spend
+<pb n="45" facs="tcp:58874:30"/>their lives in, is scarce any other, or better, than such as tends to the as<g ref="char:EOLhyphen"/>suring of their everlasting death, and the certain prevention of that life which only is long. Oh that men should bee so caitively disposed, so malicious to their own souls, and so kind to the Devil!</p>
+               <p>Who knows not that it is as im<g ref="char:EOLhyphen"/>possible to secure his life for one day, whiles he enjoys it, as it is to re<g ref="char:EOLhyphen"/>cover it for another, when it is once lost? And who will not grant that his end may bee nearer the end of the present day? And yet where is the man that will be perswaded to consi<g ref="char:EOLhyphen"/>der how near his time to die, is, or may be? Every man puts it far off, few are willing to hear of the approach of it, at any hand. When the Physician tels men that death is near, many are not willing to beleeve him. But for the Divines warning, who hath re<g ref="char:EOLhyphen"/>garded it? Did men regard the ad<g ref="char:EOLhyphen"/>monition of the Divine, concerning the approach of death, they should not be so much troubled at the Phy<g ref="char:EOLhyphen"/>sicians warning.</p>
+               <pb n="46" facs="tcp:58874:31"/>
+               <p> Did the old man consider (as well as know) that his time to die draws nigh, one would think he could not (in despite of his own reason) bee such a Sot, as still to dote so much upon the World, to cark and care to load himselfe with a <hi>Viaticum</hi> of thick clay, when his journey is at an end: To fraught his old leaking Vessel, when he is either in sight of his Port, or splitting upon the sands? Nay, did the young man consider how near his time to die may be, he would think it no such unseasonable counsel, that <hi>Solomon</hi> gives him, <hi>To remember his Creator in the days of his youth, before the evil days</hi> (of old age) <hi>come:</hi> which perhaps shall never come; perhaps did I say, nay, it is very great odds they shall not? Say thou wantest yet forty years or more of the seventy, it is more than for<g ref="char:EOLhyphen"/>ty to one thou never comest at that number. What is the reason that men generally doe so willfully and obstinately neglect the great business of working out their own salvation?
+<pb n="47" facs="tcp:58874:31"/>That they doe so sleight and vilifie their spiritual and eternal interest, as if it were a matter of no valuable concernment? A sin which no Pa<g ref="char:EOLhyphen"/>gan can parallel, nay, which the De<g ref="char:EOLhyphen"/>vil himself cannot be guilty of, and perhaps would not, if hee might be so happy as to be but once more tri<g ref="char:EOLhyphen"/>ed. What is the reason men do so little regard that Word of God, which is able to <hi>make them wise unto Salvation,</hi> as either not to hear it all, or with so little affection, as if it were no more than a good fashionable peece of religious invention? What is the reason we can prevail no more with men, by all our pressed exhor<g ref="char:EOLhyphen"/>tations, admonitions, publick and private, to forsake their sins, by a sin<g ref="char:EOLhyphen"/>cere repentance, and thorough refor<g ref="char:EOLhyphen"/>mation to make good that solemn Vow which they made in Baptism, to be Christians indeed, and not to de<g ref="char:EOLhyphen"/>ceive their own souls with a mista<g ref="char:EOLhyphen"/>ken notion of a meer fruitlesse, ineffectual pretence or presumption of faith? What is the reason men
+<pb n="48" facs="tcp:58874:32"/>are so inexorable to the practice of an holy life, without which (wee tell them from Scripture, and they do not, cannot deny it) it is as impossi<g ref="char:EOLhyphen"/>ble for them to be saved,
+<note place="margin">
+                     <hi>Heb.</hi> 12.14.</note> as it is for God to lie? Is not this the common reason of all this damnable obstina<g ref="char:EOLhyphen"/>cy, and worse than Diabolical wret<g ref="char:EOLhyphen"/>chednesse? Namely, because men will not beleeve or consider that their time to die draws nigh. As much as <hi>Atheism</hi> is now increased in this Nation, by the <hi>Antiperistasis</hi> of a pretended Reformation; I am yet confident the absolute Infidels are much the fewest in number. Most men doe yet retain an opinion at least of the verity of the Scriptures, and of the common Doctrines of a judge<g ref="char:EOLhyphen"/>ment to come, after this life, of the happinesse of Heaven, and of the contrary miseries of Hell: And therefore are presumable to intend some better care of their own souls, than they seem yet to have. But a pernicious presumption of the dura<g ref="char:EOLhyphen"/>tion of life, is that which invincibly
+<pb n="49" facs="tcp:58874:32"/>hardens them against al exhortations to a present repentance. Such is the lamentable dotage, stupid, and stu<g ref="char:EOLhyphen"/>pendious irrationality of men in this point, as no tongue can expresse.</p>
+               <p>I will yet close with a few words of Exhortation: Though I have al<g ref="char:EOLhyphen"/>ready expressed my litle experience, or hopes of successe therein. Since <hi>Israel</hi> (the best men) must die, let us make much of them whilest they live, and labour to get as much of their blessings as we can before they be gone.</p>
+               <p>And since we all must find a time to die, oh let us be carefull to find a time to live: And let us not make our lives short, by not living till wee be ready to die. Seeing we know our time to die is nigh, let us not be so mad as to put it far off. Take no heed of setting death at a far di<g ref="char:EOLhyphen"/>stance, lest we be fatally deceived, as millions have been to their eter<g ref="char:EOLhyphen"/>nal perdition. Oh let the time past of our lives, suffice us to have wrought the will of the flesh, and let us no
+<pb n="50" facs="tcp:58874:33"/>longer live the rest of our time after the lust of men, but after the will of God. Oh let us be so wise as to re<g ref="char:EOLhyphen"/>deem the time, seeing our days have been so many and evil, and are now so few.</p>
+               <p>What a desperate wretched thing is it to put off the time of repentance still, when our time to die is so near? To trust upon to morrow, when we cannot call this whole day our own without a revelation. To leave the great work to doe till <hi>night,</hi> when our Saviour hath told us, <hi>no man can work.</hi>
+               </p>
+               <p>Never man repented him of re<g ref="char:EOLhyphen"/>penting too soon, but every true pe<g ref="char:EOLhyphen"/>nitent (as well as St. <hi>Augustine</hi>) wil heartily bewail, and confesse with shame his deferring of it too long, though it hath been but for a few years in his youth.</p>
+               <p>It may bee in some sense true (which some Divines will scarce ac<g ref="char:EOLhyphen"/>knowledge) that it can never be too late to repent. But it is much more evident, and more safe to consider
+<pb n="51" facs="tcp:58874:33"/>that it can ne'r be too soon. It is a ve<g ref="char:EOLhyphen"/>ry great folly (and fault too) in them that have Estates to defer the making of their Wills, till the time to die draws so nigh, that either they can make none, or no other than such as may bee question'd whether it were theirs or no: So hath many a man undone the greatest part of his po<g ref="char:EOLhyphen"/>sterity, by leaving them under a vi<g ref="char:EOLhyphen"/>olent temptation of hazarding their souls to provide for their bodies. But infinitely more desperate is their ad<g ref="char:EOLhyphen"/>venture, that defer the disposing of their souls till the same streights of time: Hereby many a forlorn soul have been utterly prevented of any possibility of repentance, by the sud<g ref="char:EOLhyphen"/>den losse either of life or understand<g ref="char:EOLhyphen"/>ing, and many more infinitely ha<g ref="char:EOLhyphen"/>zarded by being able at last to act that one thing necessary, after no better fashion than such as is ex<g ref="char:EOLhyphen"/>treamly doubtfull, whether it be to any purpose. Yet is this the Epide<g ref="char:EOLhyphen"/>mical madnesse of men, to be as un<g ref="char:EOLhyphen"/>willing to dispose of their Souls, as
+<pb n="52" facs="tcp:58874:34"/>of their Estates, till they see or fear they can keep neither any longer. And then in their Wills (but scarce with them) they make a formal be<g ref="char:EOLhyphen"/>quest of both together. And if God had no more right to the one, than men have to the other, this practice were tolerable: But consi<g ref="char:EOLhyphen"/>dering Gods interest in the Soul, which ought ever to have been de<g ref="char:EOLhyphen"/>voted to his service; for men to give it, or sell it to the World, or the De<g ref="char:EOLhyphen"/>vil all their life time, and then at last (in an hypocritical imitation of our blessed Lord, and his first Martyrs last words) to bequeath it to God, is no other than a wicked sacrilege, under such a possibility only of par<g ref="char:EOLhyphen"/>don, as remains for <hi>the sin unto death,</hi> that St. <hi>John</hi> speaks of.</p>
+               <p>Two or three serious and sad con<g ref="char:EOLhyphen"/>siderations, I have to propound by way of <hi>Quaere</hi> to him that defers his repentance till his time to die draws nigh: 1. Whether it be not a di<g ref="char:EOLhyphen"/>rect mocking of God, and of a mans own reason, to resolve to continue
+<pb n="53" facs="tcp:58874:34"/>in a course of sin, with a purpose to repent of it at last? Would not wee think our selves impudently mock<g ref="char:EOLhyphen"/>ed by him that should tell us, hee would first do us an injury, or an af<g ref="char:EOLhyphen"/>front, and afterward repent him of it and cry us mercy? And is not this the plain sense of every wicked heart, that pretends to any resolution of a future repentance? Besides, what can be more grosly absurd in rea<g ref="char:EOLhyphen"/>son, than for a man to resolve at the present upon the doing of that, which he knows he must, and therefore re<g ref="char:EOLhyphen"/>solves he will afterward repent of?</p>
+               <p n="2">2. If true repentance in Scripture Sense, signifies an amendment or re<g ref="char:EOLhyphen"/>formation of life (as certainly it doth) what difference is there be<g ref="char:EOLhyphen"/>tween resolving never to repent at all, and resolving not to do it till his life is at an end?</p>
+               <p n="3">3. Whether he that puts off his repentance till his death-bed, doth not run the evident hazard of at least a hundred to one never to repent at all? Upon this common and notori<g ref="char:EOLhyphen"/>ous
+<pb n="54" facs="tcp:58874:35"/>experiment, that not one of an hundred of the sick-bed Penitents, do prove true Penitents, if ever they recover out of their sicknesse. But as I desire upon these (I think) very weighty considerations, that every soul should hasten his repentance. So will I put the end of my present ad<g ref="char:EOLhyphen"/>monition to it: Let us therefore la<g ref="char:EOLhyphen"/>bour so to live, as the nearer our time is to die, the better it may be for us; a good man never dies too soon; for others hee may, but not for him<g ref="char:EOLhyphen"/>self. Immature death is but impro<g ref="char:EOLhyphen"/>perly applied to a virtuous life: If we get to Heaven when we die, wee shall never complain of the shortness of the time of our exile from thence; Nay, sure we shall rejoyce it was no longer. But if we should be so wo<g ref="char:EOLhyphen"/>fully unhappy as to misse of Heaven, we shall have much reason to lament that our life here was so long. For though the Reprobates punishment cannot bee prolonged (because it is eternal) yet it will be much augmen<g ref="char:EOLhyphen"/>ted, by the many days of his ill spent life.</p>
+               <pb n="55" facs="tcp:58874:35"/>
+               <p> Let us be studious to provide with <hi>Israel</hi> for our transportation into <hi>Ca<g ref="char:EOLhyphen"/>naan</hi> when we are dead: And to this end, let us wrestle stoutly with our spiritual adversaries, to avoid the the curse of Sin and Death: and <hi>wrestle with God,</hi> as he did, for the blessing of the grace of life, and that in time; so doing we shall be sure to be <hi>Israels,</hi> to prevail with God, who is ever more than willing to yield us the Victory, if he could see us strive for it.</p>
+               <p>We read of many ingenious devi<g ref="char:EOLhyphen"/>ces the Heathens had to put them in mind of death, at their Feasts, and other opportunities of greatest joy. But all was for a Heathenish end, namely to excite them to seiz gree<g ref="char:EOLhyphen"/>dily upon the present, and not to lose any thing of the present enjoyments of this life, than which they knew not better. St. <hi>Paul</hi> hath given us their true meanings, in those <hi>evil words</hi> (as he calls them) <hi>corrupting good manners; let us eat and drink, for to morrow we shall die.</hi> Wee cannot
+<pb n="56" facs="tcp:58874:36"/>here want expedients to mind us of death, to a better purpose; since if we go abroad, in every street we meet with a Church-yard full of Graves, and within doors we cannot sit or lie many hours, without hearing Soul-bells, as we call them.</p>
+               <p>We generally dread the thought of dying <hi>extempore,</hi> as one of the grea<g ref="char:EOLhyphen"/>test infelicities that can befall us, oh let us seek to prevent it, by prepa<g ref="char:EOLhyphen"/>ring dayly for that hour, upon a just and prudent consideration that it draws nigh: I cannot say that we are precisely bound (according to the ordinary advice, as well of Heathens as Divines) to account every day our last, or in all things so to spend it, as we would think it necessary or fit to do, if we knew, or did positively beleeve it were so. All purposes, promises, and provisions for to mor<g ref="char:EOLhyphen"/>row were then unlawfull, because unreasonable; And by this rule, no man should take a journey further than the House of God; but the meaning is, we should so spend eve<g ref="char:EOLhyphen"/>ry
+<pb n="57" facs="tcp:58874:36"/>day, as considering it may be the last; and therefore be sure so to act, as if it should prove so, we might nei<g ref="char:EOLhyphen"/>ther be afraid nor ashamed to be found so doing.</p>
+               <p>I know not whether I bee strictly bound to all those thoughts, and that mind, whiles I am writing this Ser<g ref="char:EOLhyphen"/>mon, which <hi>Seneca</hi> saith hee had, whiles, hee was writing one of his E<g ref="char:EOLhyphen"/>pistles;
+<note place="margin">
+                     <hi>Sen. Ep.</hi> 62.</note>
+                  <hi>Hoc animo tibi hanc Episto<g ref="char:EOLhyphen"/>lam scribo tanquam cum maximè scri<g ref="char:EOLhyphen"/>bentem mors evocatura sit.</hi> Name<g ref="char:EOLhyphen"/>ly, that death should call mee away whiles I am writing. But so I write, as if I were now writing my last Wil, in a perfect state of health; that is (though not without hopes of time and opportunity, to expresse my self better in some other Copies hereaf<g ref="char:EOLhyphen"/>ter, yet) with present seriousness, and sincerity of intention and desire, so to bequeath my Talent, as God may be glorified, and my Reader edi<g ref="char:EOLhyphen"/>fied; remembring that my own time to die draws nigh, and desi<g ref="char:EOLhyphen"/>ring
+<pb n="58" facs="tcp:58874:37"/>he may do so too. <hi>Oh that men were wise, that they would understand this, that they would consider their lat<g ref="char:EOLhyphen"/>ter end!</hi> The Lord teach me and thee, <hi>to number our days, and to ap<g ref="char:EOLhyphen"/>ply our hearts unto wisedom.</hi> Amen.</p>
+            </div>
+            <div type="part">
+               <pb n="59" facs="tcp:58874:37"/>
+               <p>I have now done with my Text: But (as I told you) I have another to take in hand, and ye all know it. But something I must tell you, (which perhaps you know not) by way of Preface to what is to be spo<g ref="char:EOLhyphen"/>ken concerning that Reverend per<g ref="char:EOLhyphen"/>son, whose memory we are now to solemnize; Namely, that it was a strict charge of his owne, given to his Son, whom he made his Executor, and inserted into his last Will, That he should be buried privately, with<g ref="char:EOLhyphen"/>out any Solemnity: Which order was agreeable to his known singular modesty and humility. And lest we should seem to transgress that com<g ref="char:EOLhyphen"/>mand which we have thus made pub<g ref="char:EOLhyphen"/>lick, I must also tell you, that upon intreaty, his consent was obtained, for a Sermon to be preached for him after his Funerals.</p>
+               <pb n="60" facs="tcp:58874:38"/>
+               <p> Having then obeyed his first order in the Day of his Funeral, which was as private as could be, we think we are nevertheless obliged <hi>justa facere,</hi> to do him some right in the interest of his Name. And I heartily wish there had been one appointed that had been better able to doe it. But seeing the task is fallen upon me, (who must acknowledg my extreme insufficiency for such an Office) I think I may (without ambition) take up for a wish the petition that <hi>Elisha</hi> made to his Master <hi>Elijah,</hi> when he was to be taken away from him; namely, that a <hi>double portion of the Spirit of my Lord might be upon me.</hi> That is, (not that I might have double his gifts, that were too ambi<g ref="char:EOLhyphen"/>tious a wish, but as I think the Pro<g ref="char:EOLhyphen"/>phet meant, and as the same phrase is elsewhere used) that two parts of his spirit, the portion of a first-born Son, might be upon me. The <hi>Heb.</hi> word for <hi>portion</hi> in that Text signi<g ref="char:EOLhyphen"/>fies properly a <hi>mouth,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. And to be able to give this holy man his due,
+<pb n="61" facs="tcp:58874:38"/>no Mouth or Tongue were so much to be wished as his owne:
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Naz. de Basil.</note> The world well knows he had a double portion of the gifts of the Tongue above his Brethren. And it is as well known he made a proportionable improve<g ref="char:EOLhyphen"/>ment thereof, for the Service of the Lord and his Church.</p>
+               <p>Two years together he was cho<g ref="char:EOLhyphen"/>sen Rhetorick Professor in the Uni<g ref="char:EOLhyphen"/>versity of <hi>Cambridge,</hi> and perfor<g ref="char:EOLhyphen"/>med the Office with extraordinary applause.</p>
+               <p>He was noted for a singular Wit from his Youth: A most acute Rhetorician, and an Elegant Poet: He understood many Tongues, and in the Rhetorick of his owne, he was second to none that lived in his time. But,</p>
+               <p>That which I shall further say of this holy man, shall be with reflecti<g ref="char:EOLhyphen"/>on upon my Text, in a short parallel of him with the Patriarch <hi>Israel,</hi> of whom you have heard. And many things there are wherein they may be specially compared:</p>
+               <pb n="61" facs="tcp:58874:39"/>
+               <p> First, the significations of the Name <hi>Israel,</hi> which I mentioned, are notably agreeable to this Emi<g ref="char:EOLhyphen"/>nent person. <hi>Israel</hi> (I told you) sig<g ref="char:EOLhyphen"/>nifies either <hi>a man seeing God,</hi> or a <hi>right (upright) man of God,</hi> or <hi>one that had power with God like a Prince.</hi> Each of these things were eminently agreeable to this per<g ref="char:EOLhyphen"/>son: First, <hi>Israel</hi> was a Priest, (and so was every <hi>Pater-familias</hi> in those Times, as is said:) We read of his offering sacrifice several times: And a Prophet he was too, one of those which the Psalmist speaks of in that known place, Psal. 105.15. <hi>Touch not mine Anointed, Do my Prophets no harm.</hi> You may find him named there in the context, <hi>Vers.</hi> 10. And here in the next Chapter but one, you may read his Prophetical bles<g ref="char:EOLhyphen"/>sings that he gave to his Sons, when the time drew nigh that he was to die. So was our Father a Priest, and that of the higher Order; a Seer, a Prophet, and a Father of the Prophets. One that alwayes made
+<pb n="63" facs="tcp:58874:39"/>it his business to see and search into the things of God, with a zealous diligence, rather than a bold curiosity. He was one that conver<g ref="char:EOLhyphen"/>sed as much with God, and drew as nigh to him in divine Meditation (which is the onely ordinary way of seeing God in the flesh) as any man of his time. You all know he was a Master in <hi>Israel,</hi> and another man<g ref="char:EOLhyphen"/>ner of one then <hi>Nicodemus.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as <hi>Gregory</hi> said of his Father; <hi>a Father and a Master of the orthodox Faith.</hi> A great Master he was, and one of the first that taught this Church the Art of <hi>Di<g ref="char:EOLhyphen"/>vine Meditation.</hi> Few men of his age have ascended so high upon <hi>Ja<g ref="char:EOLhyphen"/>cob</hi>'s Ladder as he did: He was one that with <hi>Israel</hi> lived and died in a <hi>Goshen</hi> of Light in the midst of <hi>Aegyptian</hi> darkness.</p>
+               <p>Secondly, he was a right upright man too before God, a true <hi>Israelite indeed, in whom was no guile,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Rectus Dei,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as was said of <hi>Israel,</hi> viz. <hi>Antiquâ probitate sim<g ref="char:EOLhyphen"/>plicitaté{que}
+<pb n="64" facs="tcp:58874:40"/>praeditus. Et eruditis pie<g ref="char:EOLhyphen"/>tate, &amp; piis eruditionis laude antecel<g ref="char:EOLhyphen"/>lens, ità secundas doctrinae ferens, ut pietatis primas obtineret,</hi> as <hi>Nazian<g ref="char:EOLhyphen"/>zen</hi> saith of <hi>Basil.</hi> Those that were most eminent for Learning he excel<g ref="char:EOLhyphen"/>led in Piety; and those that were most famous for Piety, he excelled in Learning. This High-Priests Breast was richly adorned with the glorious <hi>Urim,</hi> and with the more precious Jewel of the <hi>Thummim.</hi>
+               </p>
+               <p>Thirdly, he was one that wrestled with God much, and often in prayer, and prevailed much: And if we be yet capable of the blessing, I hope wee shall one day enjoy the fruit of those prayers wherein he wrestled with God for this poor Church. We read of <hi>Jacob</hi>'s <hi>vows</hi> as well as of his <hi>visions,</hi> Gen. 28.20. And it is the first vow that we read of in Scripture: And who hath not read, or heard at least, of this holy mans Vows</p>
+               <p>Thus the Name agrees punctually in each signification.</p>
+               <pb n="65" facs="tcp:58874:40"/>
+               <p> We will now go on with the pa<g ref="char:EOLhyphen"/>rallel of the Persons. <hi>Israel</hi> was a <hi>smooth</hi> man (of body) as himselfe saith, Gen. 32.11. and a man of a plain, even, and modest spirit, as ap<g ref="char:EOLhyphen"/>peared by his scruples that he made about the way that his Mother di<g ref="char:EOLhyphen"/>rected him to get his Fathers bles<g ref="char:EOLhyphen"/>sing. Such an one was our Father, a man of a smooth, terse Wit, and Tongue, and of a calme, gentle, meek and moderate spirit, as they all know that know anything of him: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as <hi>Nazianzen</hi> saith of <hi>Cae<g ref="char:EOLhyphen"/>sarius:</hi> a man of a milde, serene and calm aspect, (who ever saw it ruffled into any appearance of disorderly passion) and of a quick and lively spirit. He was not twice a childe, (though he lived long enough to have been so) but alwayes one in our Saviours sense, namely, in Hu<g ref="char:EOLhyphen"/>mility and Innocence. One that much excell'd in those Dove-like fruits of the Spirit, which St. <hi>Paul</hi>
+                  <pb n="66" facs="tcp:58874:41"/>mentions, Gal. 5.22. <hi>Love, Joy, Peace, Long-suffering, Gentlenesse, Goodnesse, Meeknesse,</hi> &amp;c. As loving, and as much beloved as any man of his Or<g ref="char:EOLhyphen"/>der in the three Nations. One that got the Birth-right from Heaven, and the blessing from men too, with<g ref="char:EOLhyphen"/>out dissembling for it; whiles other rough <hi>Esaus</hi> were hunting abroad for wild Venison, thinking to please their Father, hee stayed quietly at home, and observing the directions of his Mother the Church, went a<g ref="char:EOLhyphen"/>way smooth with the Benison. Some struglings hee had with his rougher Brethren, whom he did not strive so much to <hi>supplant,</hi> as to supple with his smooth moderation and humility. And so far he prevailed in this design, as that instead of ill words or knocks, he met with a kiss and respectful im<g ref="char:EOLhyphen"/>bracement from many of them, that had been his Adversaries because they envied him the Birth-right of his Order and Dignity: And all men ho<g ref="char:EOLhyphen"/>noured the <hi>Doctor,</hi> though some lo<g ref="char:EOLhyphen"/>ved not the <hi>Bishop.</hi>
+               </p>
+               <pb n="67" facs="tcp:58874:41"/>
+               <p>
+                  <hi>Israel</hi> travelled into several coun<g ref="char:EOLhyphen"/>tries, and was kindly entertained and respected wherever he came; so did, and so was our Father; he travelled with persons of honour into <hi>France, Germany, Holland,</hi> and <hi>Scotland;</hi> and God was ever with him, whereever he went, as he was with <hi>Israel.</hi> Some troubles and perils hee met with in his journeys as <hi>Jacob</hi> did; when <hi>La<g ref="char:EOLhyphen"/>ban</hi> pursued him with one Troop, and <hi>Esau</hi> met him with another. But a kind providence was ever ready to redeem him; <hi>and God hath alwaies holpen his servant Israel.</hi>
+               </p>
+               <p>
+                  <hi>Israel</hi> was a Shepheard, and a faithful one,
+<note place="margin">
+                     <hi>Gen.</hi> 31.40.</note> that took special care of his flock and great pains night and day in wat<g ref="char:EOLhyphen"/>ching over them for twenty years to<g ref="char:EOLhyphen"/>gether. And our <hi>Israel</hi> was a faithfull Shepherd, that diligently watched o<g ref="char:EOLhyphen"/>ver the flocks, that his Master comit<g ref="char:EOLhyphen"/>ted to his charge, and took extraordi<g ref="char:EOLhyphen"/>nary pains in feeding them for above twenty years together. Whilest he was the private Pastor first of <hi>Hal<g ref="char:EOLhyphen"/>steld</hi> in <hi>Suffolk,</hi> and after of <hi>Waltham</hi>
+                  <pb n="68" facs="tcp:58874:42"/>in <hi>Essex;</hi> he preached thrice a week in a constant course: Yet (as him<g ref="char:EOLhyphen"/>self witnessed) <hi>never durst climb up into the Pulpit to preach any Sermon, whereof he had not before penn'd every word in the same Order, wherein he ho<g ref="char:EOLhyphen"/>ped to deliver it; although in his ex<g ref="char:EOLhyphen"/>pressions hee was no slave to syllables, neither made use of his Notes.</hi>
+               </p>
+               <p>Nor did his industry either cease, or so much as abate at his prefer<g ref="char:EOLhyphen"/>ments; he hath given the World as good an account of his time as any man in it; as one that knew the va<g ref="char:EOLhyphen"/>lue of time; and esteemed the losse of it, more than a temporal losse; because it hath a necessary influence upon eternity. It is well known in this City, how forward he was to Preach in any of our Churches, til he was first forbidden by men, and at last dis-inabled by God.</p>
+               <p>And when hee could not Preach himself, as oft, and as long as he was able: This learned <hi>Gamaliel,</hi> was (not content only, but) very diligent to sit at the feet of the youn<g ref="char:EOLhyphen"/>gest
+<pb n="69" facs="tcp:58874:42"/>of his Disciples: As diligent an Hearer as hee had been a Preacher. How oft have we seen him walking alone, like old <hi>Jacob,</hi> with his staffe, to <hi>Bethel</hi> the house of God?</p>
+               <p>
+                  <hi>Israel</hi> was fruitfull in children, and so was our Father, and that with<g ref="char:EOLhyphen"/>out the Polygamy of <hi>Israel;</hi> being the Husband but of one wife, a grave virtuous Matron, with whom he li<g ref="char:EOLhyphen"/>ved forty nine years. But <hi>Israel</hi> at last wanted bread for himself, and his family: I cannot say this man did so, but how near he came to it, and by what means we all know; but must not complain because he never did. He had not the kindnesse that <hi>Israel</hi> had in <hi>Aegypt,</hi> to have any al<g ref="char:EOLhyphen"/>lowance for his maintenance from the Lord of the Country, yet he ne<g ref="char:EOLhyphen"/>ver wanted. He was indeed a rare Mirrour of Patience, under all his crosses, which toward his latter end were multiplied upon him. The losse of his Estate he seemed insen<g ref="char:EOLhyphen"/>sible of, as if he had parted with all, with as good content as <hi>Jacob</hi> did
+<pb n="70" facs="tcp:58874:43"/>with a good part of his, to pacifie his angry brother, having well lear<g ref="char:EOLhyphen"/>ned as well <hi>to want,</hi> as <hi>to abound.</hi> I have heard him oft bewail the spoils of the Church, but very rarely did he so much as mention his own los<g ref="char:EOLhyphen"/>ses, <hi>but took joyfully the spoiling of his goods:</hi> When hee was laid <hi>among the pots</hi> (that is, saith the Septua<g ref="char:EOLhyphen"/>gint,
+<note place="margin">
+                     <hi>Psalm</hi> 63.13.</note> and the Vulgar Latine, <hi>inter cleros</hi>) yet was <hi>he as the Wings of a Dove covered with Silver, and her Fea<g ref="char:EOLhyphen"/>thers with yellow Gold.</hi>
+               </p>
+               <p>Of late years, and especially the last, he was forely afflicted with bo<g ref="char:EOLhyphen"/>dily diseases, and bore them all with as much patience, as hath been seen in any flesh, except that of our Sa<g ref="char:EOLhyphen"/>viours. <hi>We have heard of the patience of Job,</hi> but never saw a fairer Copy of it, than was in this man.</p>
+               <p>
+                  <hi>Israel</hi> lived to be very old (as you may read in the verse before my Text) and at last grew so weak, that he was scarce able to rise up upon his bed to blesse his Children, <hi>Gen.</hi> 48.2. so was it with our Father: Me<g ref="char:EOLhyphen"/>thinks
+<pb n="71" facs="tcp:58874:43"/>I see him yet, as he was upon his Bed, how he <hi>strengthened himself</hi> to confirm others (that sought it) with his fatherly blessing; as <hi>Israel</hi> did the sons of <hi>Joseph;</hi> and that too with the same good old Ceremony which <hi>Jacob</hi> first used; namely, the laying on of his hands. <hi>His days were few and evil,</hi> in <hi>Jacob's</hi> comparative sense; and yet many and good, for he died in <hi>a good old age,</hi> full of days and full of good works; <hi>Canus Virtu<g ref="char:EOLhyphen"/>tibus,</hi> White with Virtues.
+<note place="margin">
+                     <hi>Job</hi> 5.26.</note>
+                  <hi>He came to his Grave in a full age, like as a shock of Corn cometh in his season.</hi> He was crowned with the silver Crown of age in his gray hairs; <hi>Prov.</hi> 16.31. and now is crowned with the Golden Crown of immortality.</p>
+               <p>When his time drew nigh that he must die, he much longed for death, and was ready to bid it welcom, and spake always very kindly of it. It was an odd word of St. <hi>Francis</hi> when the Physicians told him, the time of death drew nigh, <hi>Bene veniat (in<g ref="char:EOLhyphen"/>quit) soror Mors,</hi> welcome my sister
+<pb n="72" facs="tcp:58874:44"/>death. The expression of <hi>Job</hi> is not much unlike, <hi>Job</hi> 17.14. <hi>I have said to Corruption, thou art my Father. to the Worm, thou art my Mother, and my Sister:</hi> So did this good man welcom death, as if he had been to embrace a Mother or a Sister. He took good notice of the approach of death, and set his House in order, as <hi>Israel</hi> did, by distributing the bles<g ref="char:EOLhyphen"/>sings that God had left him to his Children. He indeavour'd also to prepare others for that change by his last Books, and last Sermons that he preached, which were all upon the <hi>last things, Death,</hi> and <hi>Judgement, Hea<g ref="char:EOLhyphen"/>ven,</hi> and <hi>Hell.</hi>
+               </p>
+               <p>
+                  <hi>Israel</hi> left his Children in <hi>Aegypt</hi> when he died, but with a Propheti<g ref="char:EOLhyphen"/>cal promise of their return into <hi>Ca<g ref="char:EOLhyphen"/>naan:</hi> Our <hi>Israel</hi> hath left us (I may not say in bondage, but) in a sad condition, and left us without a Pro<g ref="char:EOLhyphen"/>phecy, though not without his Pray<g ref="char:EOLhyphen"/>ers for our happy return into <hi>Canaan.</hi> Well, he is gone, <hi>Non nobis ereptus sed periculis,</hi> as <hi>Ambrose</hi> said of his
+<pb n="73" facs="tcp:58874:44"/>Brother (in that most Elegant Ora<g ref="char:EOLhyphen"/>tion which he made <hi>de obitu fratris</hi>) taken away not so much from us, as from the perils of the times. It was some comfort to him, that he lived not to see the Funeral of the Church, though he saw it drawing home, al<g ref="char:EOLhyphen"/>most at last gasp. And if there could be as much sorrow in Heaven for the perversenesse of sinners, as there is <hi>joy at their conversion,</hi> doubtlesse this holy man could not yet bee at rest. <hi>But Abraham is ignorant of us, and Israel knows us not,</hi> Isaiah 63.16. And the more happy is he if he doth not, and I hope wee are never the more unhappy, for whether he knows of our State or not, it is piously to be beleeved, he prays for us, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as <hi>Nazian.</hi> said of <hi>Basil.</hi>
+               </p>
+               <p>When <hi>Israel</hi> died the Egyptians mourned for him.
+<note place="margin">
+                     <hi>Gen.</hi> 50.3</note> And I am per<g ref="char:EOLhyphen"/>swaded so do some of the worst of men for our Father.</p>
+               <p>The streights of time both for preparing and delivering this testi<g ref="char:EOLhyphen"/>mony of his life, hath inforced mee
+<pb n="74" facs="tcp:58874:45"/>to passe over the particulars of his preferments, dignities, and honou<g ref="char:EOLhyphen"/>rable imployments by his Prince. Amongst which, That to the <hi>Synod of Dort,</hi> would not else have been forgotten. Especially for the great respect hee had there from the For<g ref="char:EOLhyphen"/>raign Divines and States. And his excellent moderation shew'd in those unhappy disputes: Concerning which he afterward drew up such a collecti<g ref="char:EOLhyphen"/>on of accorded truths, as was offered to bee subscribed by some of the most eminent parties on both sides. Which reconciliatory Papers then unhappily buried, are very much to be desired; and may bee hoped for in time, together with a compleater accompt of his life written by him<g ref="char:EOLhyphen"/>self. But whatever becomes of them, hee was one whose <hi>moderati<g ref="char:EOLhyphen"/>on was known to all men,</hi> and his zeal for an holy Peace in the Church, is abundantly manifested by those wri<g ref="char:EOLhyphen"/>tings of his, which are already ex<g ref="char:EOLhyphen"/>tant.</p>
+               <p>I cannot so much as mention all
+<pb n="75" facs="tcp:58874:45"/>his virtues, but must not forget so great an one as that of his <hi>Charity:</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Col. 3.14. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 1 Pet. 4.8.</note> Which above, and before all things, (as the two great Apostles exhort) he was carefull to put on. Besides, his spiritual Alms of Prayers, godly admonitions, comforts, and holy counsels, whereof he was very libe<g ref="char:EOLhyphen"/>ral.</p>
+               <p>His bodily Alms were constant and bountifull. In the Parish where he last lived, he gave a weekly, vo<g ref="char:EOLhyphen"/>luntary contribution of mony to cer<g ref="char:EOLhyphen"/>tain poor Widows to his dying day; over and above his imposed rates, wherein he was never spared, And as the <hi>Widows handfull of Meal, and her Cruse of oyl, did not wast</hi> by feed<g ref="char:EOLhyphen"/>ing the old Prophet; so did this Pro<g ref="char:EOLhyphen"/>phets Barrel that was low, and his Cruse that was little, not hold out only, but seemed to increase by fee<g ref="char:EOLhyphen"/>ding the Widows, as appeared by that liberal addition of Alms, which he gave by his Will to the Town where he was born,
+<note place="margin">30 <hi>l. a peece.</hi>
+                  </note> and to this City where he died.</p>
+               <pb n="76" facs="tcp:58874:46"/>
+               <p> If ever there were a man that could speak with the <hi>tongues of Men and Angels,</hi> he was one. But such there are who are as <hi>Justin Martyr</hi> calls them, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or as the Apostle saith, no better than a <hi>soun<g ref="char:EOLhyphen"/>ding brasse, or a tinkling Cymball,</hi> be<g ref="char:EOLhyphen"/>ing without charity. But our Fa<g ref="char:EOLhyphen"/>ther was one that had learned of St. <hi>Paul</hi> that same <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">1 Cor. 12.31.</note> the <hi>more excellent way</hi> of charity, which he also shewed unto others. He was one that as (St.
+<note place="margin">1 Joh. 3.18.</note>
+                  <hi>John</hi> exhorts) <hi>loved not in word, or in tongue only, but indeed and in truth,</hi> and shewed it plentifully upon all occasions. One that had <hi>Jacobs</hi> voice, but could ne<g ref="char:EOLhyphen"/>ver endure so much as the disguise of <hi>Esau's</hi> churlish hands.</p>
+               <p>Four things as yet remaining with us below, of this heavenly Saint: His Children, his Works, his Body, and his Name. First, his Children. I may say of him, as St. <hi>Ambrose</hi> said of <hi>Theodosius</hi> the Emperour, <hi>Non to<g ref="char:EOLhyphen"/>tus recessit, reliquit nobis liberos in qui<g ref="char:EOLhyphen"/>bus eum debemus agnoscere, &amp; in qui<g ref="char:EOLhyphen"/>bus
+<pb n="77" facs="tcp:58874:46"/>eum cernimus &amp; tenemus,</hi> he is not all gone, he hath left us a good porti<g ref="char:EOLhyphen"/>on of himself behind in his sons, in whō we may yet see him, and hold him. I shall not wish any one of them the double portion of their Fathers spirit, but rather that they may be (as in<g ref="char:EOLhyphen"/>deed they are) all Coheirs thereof.</p>
+               <p>For his works, I hope with reve<g ref="char:EOLhyphen"/>rence I may lawfully say of them, as the Psalmist doth of Gods, that <hi>they all praise him,</hi> because all men praise them. At least I may say, as the Spirit doth in the Apocalyps, <hi>Blessed is the dead, that died in the Lord,</hi> for he <hi>resteth from his labours,</hi> and <hi>his works follow him.</hi> Blessed is he, be<g ref="char:EOLhyphen"/>cause his works (that is, the reward of them; follow him) and we are blessed, because we are left behind him. That which <hi>Nazianzen</hi> said of <hi>Basils</hi> works, may truly be said of this mans, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>His by-businesses, his <hi>occasional meditations,</hi> are more precio<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s than
+<pb n="78" facs="tcp:58874:47"/>the elaborate works of other men.</p>
+               <p>For his Body, that is already laid up in his Dormitory without the honourable Ceremony of <hi>Embalm<g ref="char:EOLhyphen"/>ing</hi> which <hi>Israel</hi> had.
+<note place="margin">
+                     <hi>Gen.</hi> 50.2.</note> But though he wanted that, and other Ceremo<g ref="char:EOLhyphen"/>nies of deserved honour (which his own humility and the envy of the times denied him) yet doth he not want that which the Wiseman saith, <hi>is better than a precious oyl or oynt<g ref="char:EOLhyphen"/>ment</hi> (namely) <hi>a good name.</hi>
+                  <note place="margin">
+                     <hi>Eccles.</hi> 7.1.</note> For I may say of this mans name, as the Spouse speaks of the name of her beloved,
+<note place="margin">
+                     <hi>Cant.</hi> 1.3.</note> That it is <hi>an oyntment pou<g ref="char:EOLhyphen"/>red forth.</hi> An oyntment that carri<g ref="char:EOLhyphen"/>eth with it all the excellencies of a precious oyl; that is, besides the rich ingredients wherewith it is sub<g ref="char:EOLhyphen"/>stantially compounded: These three accidental qualities too; of a fra<g ref="char:EOLhyphen"/>grant and far spreading odour or sent; the gentle and pleasing lae<g ref="char:EOLhyphen"/>vor, or smoothnesse; the bright shi<g ref="char:EOLhyphen"/>ning Nitor, or Lustre.</p>
+               <p>My task at this time hath been to break a smal <hi>box of oyntment</hi> to pour
+<pb n="79" facs="tcp:58874:47"/>upon his feet; and I hope there is no body will accuse me of any <hi>Wast,</hi> either of my time, or my oyl; es<g ref="char:EOLhyphen"/>pecially considering both were little, and lesse worth. If there should bee any murmurers, I hope to find them that will excuse me with this Apology; saying,
+<note place="margin">
+                     <hi>Mark</hi> 14.8. <hi>Matth.</hi> 26.10.12.</note>
+                  <hi>I have done a good work upon him, I have done what I could and done it for his burial.</hi> And sure we do all well to help to Embalm his name, especially since we may do it at his own cost, for he hath provided the Spices in his life. When he lived, his lips dropped Myrrh, and his Pen the Oyl of Calamus and Cinamon The smell whereof hath filled the House of God with such a Perfume as (I hope) this age (as ill sented as it is) will never wear out.</p>
+               <p>His life was so well acted, as (had not his modesty forbidden it) hee might have taken his leave of the World, as <hi>Augustus</hi> did, with <hi>Valete &amp; plaudite,</hi> Farewel and speak well of me.</p>
+               <p>He is now silent, and so must I
+<pb n="80" facs="tcp:58874:48"/>be, for the time will not allow mee to protract my speech. An Angel from Heaven hath translated the Soul of this <hi>Angel of the Church,</hi> and placed it among the 24 <hi>Elders,</hi> which St. <hi>John</hi> saw <hi>about the throne of God,</hi> (which good Interpreters have taken to be a type of the 24 Chief Priests under the Law, and of their Analogical Successors, the Bi<g ref="char:EOLhyphen"/>shops of the christian Church) attired with a <hi>white robe</hi> of glory, in stead of his earthly Rochet; and instead of his Crosier, he hath a branch of the peaceful and victorious Palme put into his hands; and for his Mi<g ref="char:EOLhyphen"/>ter, which fell with the Royal Crown, (when the time was come that his old Masters prophecie was to be fulfilled, <hi>[No Bishop, no King]</hi> he hath a Crown of Glory set upon his head. A <hi>Pisgah-sight</hi> he often had of this heavenly <hi>Canaan,</hi> when he was upon his Mount of Contem<g ref="char:EOLhyphen"/>plation; but now he is gotten up to the top of the Ladder, and seeth the face of God indeed in the true <hi>Pe<g ref="char:EOLhyphen"/>niel.</hi>
+               </p>
+               <pb n="81" facs="tcp:58874:48"/>
+               <p> Me thinks now I hear some of you say with <hi>Balaam, Oh that I might die the death of the righteous, and that my latter end might be like his!</hi> I shal tell you (in a few words) how that may be, and I have done.</p>
+               <p>Follow the steps of his holy life, and the instructions of his godly books; learn of <hi>Israel,</hi> and of this Pa<g ref="char:EOLhyphen"/>rallel Father, to prize the spiritual birth-right, above any present flesh<g ref="char:EOLhyphen"/>ly enjoyments, and to <hi>wrestle</hi> with God for it in Prayer: <hi>Meditate</hi> much and often of Heaven and heavenly things as he did; imitate him in his holy <hi>Vows,</hi> and bee carefull to pay them; follow, I say, the steps of his Faith and Charity, and you cannot misse of such an end.
+<note place="margin">Gal. 6.16.</note>
+                  <hi>For as many as walk according to this rule, peace shall be upon them, and upon the Israel of God.</hi> AMEN.</p>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:58874:49"/>
+            <pb facs="tcp:58874:49"/>
+            <head>Angelus è Coelo ad Angelum Ecclesiae N. ad Coelum trans<g ref="char:EOLhyphen"/>euntem.</head>
+            <lg>
+               <l>
+                  <hi>Ave Pater Sancte,</hi>
+                  <note place="margin">Proso-metrica.</note>
+               </l>
+               <l>
+                  <hi>Gratis dilecte, gratiâ jam plene,</hi>
+               </l>
+               <l>
+                  <hi>Dominus tecum, tú{que} cum Domino,</hi>
+               </l>
+               <l>
+                  <hi>Semper fuit, semper es futurus.</hi>
+               </l>
+               <l>
+                  <hi>Benedictus tu inter viros, inter angelos.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>En age, ociùs hanc nostram ascendas alam,</hi>
+               </l>
+               <l>
+                  <hi>Simúl{que} ascendamus hanc scalam <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>:</hi>
+               </l>
+               <l>
+                  <hi>Quin &amp; properare jussit expectans Dominus,</hi>
+               </l>
+               <l>
+                  <hi>Idém{que} cupiunt conservi omnes,</hi>
+               </l>
+               <l>
+                  <hi>Gestientes videre, aventes exosculari.</hi>
+               </l>
+               <l>
+                  <hi>Uter{que} te manet gratulabundus</hi> Adamus</l>
+               <l>
+                  <hi>Et qui perdidit, &amp; qui servavit.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jamjam aperuit sinum,</hi>
+               </l>
+               <l>
+                  <hi>Fidus Fidorum Pater</hi> Abraham:</l>
+               <l>
+                  <hi>Brachiís{que} extensis adstat</hi> Parallelus Israel,</l>
+               <pb facs="tcp:58874:50"/>
+               <l>
+                  <hi>Cum charissimo filio</hi> cognomine Josepho.</l>
+               <l>
+                  <hi>Fratrés{que} omnes in amplexum ruituri.
+<note place="margin">In Ascensu.</note>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Quid moraris, quid miraris</hi>
+               </l>
+               <l>
+                  <hi>Lumina haec pervia?</hi>
+               </l>
+               <l>
+                  <hi>Quid Lunam argenteam noctis reginam?</hi>
+               </l>
+               <l>
+                  <hi>Quid aureum solem diei regem?</hi>
+               </l>
+               <l>
+                  <hi>In sidera errantia quid errant oculi?</hi>
+               </l>
+               <l>
+                  <hi>In fixa quid figis Lumina?</hi>
+               </l>
+               <l>
+                  <hi>Quorsum (post solem) duodena signa pervagaris?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Non est hoc veri nominis, nec numinis Coelum</hi>
+               </l>
+               <l>
+                  <hi>Non haec aula Jovis</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>:</l>
+               <l>
+                  <hi>Sed ejusdem camerata cella.</hi>
+               </l>
+               <l>
+                  <hi>Nec sunt haec lumina verè coelestia</hi>
+               </l>
+               <l>
+                  <hi>Sed umbra luminum super-coelestium.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Attolle oculos, aspice</hi> justitiae solem,</l>
+               <l>
+                  <hi>Suo jam culminantem</hi>
+               </l>
+               <l>
+                  <hi>Fixo aeterno{que} meridie.</hi>
+               </l>
+               <l>
+                  <hi>Hujus{que} radiis gloriâ</hi> plenam,</l>
+               <l>
+                  <hi>Formosam lunam verè lucinam,</hi>
+               </l>
+               <l>
+                  <hi>Scilicet quae peperit lucem parentem.</hi>
+               </l>
+               <l>
+                  <hi>Ecce Patriarcharum bis sena signa</hi>
+               </l>
+               <l>
+                  <hi>Totidém{que} Apostolorum antitypum Senatum.</hi>
+               </l>
+               <l>
+                  <hi>Ecce Saturnum grandaevum Adamum:</hi>
+               </l>
+               <l>
+                  <hi>Jovem{que} legiferum Mosen:</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:58874:50"/>
+               <l>
+                  <hi>Martem bellicosum Josuam:</hi>
+               </l>
+               <l>
+                  <hi>Eliam Mercurium, post coelica peracta jussa</hi>
+               </l>
+               <l>
+                  <hi>Ad coelum impigrè revolantem.</hi>
+               </l>
+               <l>
+                  <hi>Ecce Hesperum solis praecursorem</hi>
+               </l>
+               <l>
+                  <hi>Joannem Baptistam.</hi>
+               </l>
+               <l>
+                  <hi>Ecce Pleiades Empyreos,</hi>
+               </l>
+               <l>
+                  <hi>Septem Fratres, stellas Asiaticas:</hi>
+               </l>
+               <l>
+                  <hi>Ecce agmina minorum syderum,</hi>
+               </l>
+               <l>
+                  <hi>Variantis magnitudinis,</hi>
+               </l>
+               <l>
+                  <hi>Omnia tibi lucem praebent Venturo.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Adjunge latus debito chore,</hi>
+               </l>
+               <l>
+                  <hi>Auge destinatam constellationem,</hi>
+               </l>
+               <l>
+                  <hi>Sed primum, cae li amicus, induas amictum caele<g ref="char:EOLhyphen"/>stem.</hi>
+               </l>
+               <l>
+                  <hi>Hanc scilicet gloriae album,</hi>
+               </l>
+               <l>
+                  <hi>Pro terreâ direptâ pallâ;</hi>
+               </l>
+               <l>
+                  <hi>Illam victricem palmam,</hi>
+               </l>
+               <l>
+                  <hi>Pro extorto pastorali pedo:</hi>
+               </l>
+               <l>
+                  <hi>Istam coronam sideream,</hi>
+               </l>
+               <l>
+                  <hi>Pro tenui decussâ cydari.</hi>
+               </l>
+               <l>
+                  <hi>Vide Arborem vitae de quâ toties legisti,</hi>
+               </l>
+               <l>
+                  <hi>Hujus nunc fructum leges,</hi>
+               </l>
+               <l>
+                  <hi>Et aeternum vivas.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>J.W.M.A.</signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:58874:51"/>
+            <pb facs="tcp:58874:51"/>
+            <head>Upon the much Lamented Death of the Reverend Father <hi>JOSEPH,</hi> Late Lord Bishop of <hi>NORWICH.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>Our Father dead? can any dumb-born Son</hi>
+               </l>
+               <l>
+                  <hi>Forbear to cry, Die, and we are undone?</hi>
+               </l>
+               <l>
+                  <hi>Ah could our cries, his flying Chost recall,</hi>
+               </l>
+               <pb facs="tcp:58874:52"/>
+               <l>
+                  <hi>'T had soon return'd to its wonted stall:</hi>
+               </l>
+               <l>
+                  <hi>But since</hi>
+               </l>
+               <l>
+                  <hi>From hence</hi>
+               </l>
+               <l>
+                  <hi>It must, blow high our deep fetch'd sighs, and land</hi>
+               </l>
+               <l>
+                  <hi>This high-priz'd treasure on the heavenly strand</hi>
+               </l>
+               <l>
+                  <hi>That's all we can, for without his own skill</hi>
+               </l>
+               <l>
+                  <hi>Of</hi> Tongue, <hi>aud</hi> Fancy, <hi>can't the briskest quill</hi>
+               </l>
+               <l>
+                  <hi>His worth</hi>
+               </l>
+               <l>
+                  <hi>Set forth.</hi>
+               </l>
+               <l>
+                  <hi>Yet cry we must, and tho' in uucouth tones,</hi>
+               </l>
+               <l>
+                  <hi>And drery accents of confused groans,</hi>
+               </l>
+               <l>
+                  <hi>Tell the mis-deeming World—</hi>
+               </l>
+               <l>
+                  <hi>What rich Embroidery of</hi> Wit <hi>and</hi> Grace,</l>
+               <l>
+                  <hi>Like sparkling Diamonds set in Golden Case,</hi>
+               </l>
+               <l>
+                  <hi>Like the pure white and red, in beauties cheek,</hi>
+               </l>
+               <l>
+                  <hi>VVith sweet contention that Precedence seek,</hi>
+               </l>
+               <l>
+                  <hi>Possest</hi>
+               </l>
+               <l>
+                  <hi>That breast.</hi>
+               </l>
+               <pb facs="tcp:58874:52"/>
+               <l>
+                  <hi>How sweet a dresse of</hi> smiling gravity,</l>
+               <l>
+                  <hi>Sate on that reverend brow; how solidly</hi>
+               </l>
+               <l>
+                  <hi>Fraughted with</hi> Gospel-treasure <hi>at its home,</hi>
+               </l>
+               <l>
+                  <hi>That Soul's arriv'd, like ship from</hi> Indies <hi>come.</hi>
+               </l>
+               <l>
+                  <hi>See in that mind a Land-skip of all Graces</hi>
+               </l>
+               <l>
+                  <hi>Pourtray'd to life, rank'd in their proper places.</hi>
+               </l>
+               <l>
+                  <hi>Here</hi> Love <hi>and</hi> Peace <hi>imbrace, there</hi> Meekness, Sanctity,</l>
+               <l>
+                  <hi>Below at distance sits</hi> Humility;</l>
+               <l>
+                  <hi>See yonder</hi> Charity, <hi>with arms expanded,</hi>
+               </l>
+               <l>
+                  <hi>VVith tender-bowels open-handed:</hi>
+               </l>
+               <l>
+                  <hi>There</hi> Patience <hi>stoops, and bends her shoulders low</hi>
+               </l>
+               <l>
+                  <hi>To bear what load the unworthy VVorld wil throw</hi>
+               </l>
+               <l>
+                  <hi>On wronged</hi> Innocence. <hi>Then tap'ring to the sky</hi>
+               </l>
+               <l>
+                  <hi>You'l see pure</hi> Zeal, Devotion, Piety.</l>
+               <l>
+                  <hi>All these unfucust, candid, and serene;</hi>
+               </l>
+               <l>
+                  <hi>Not like the Modern garb, to serve the Scene</hi>
+               </l>
+               <pb facs="tcp:58874:53"/>
+               <l>
+                  <hi>Of ends and interests; meer Pageantry,</hi>
+               </l>
+               <l>
+                  <hi>To gull such Souls as see with half an eye.</hi>
+               </l>
+               <l>
+                  <hi>Such stales of vertue's, but a Saint-like cheat,</hi>
+               </l>
+               <l>Glasse, <hi>to his</hi> Chrystal, Gloworms <hi>to his</hi> Heat.</l>
+               <l>
+                  <hi>VVas ever soul ravish'd in</hi> Meditation,</l>
+               <l>
+                  <hi>VVound up on high in</hi> Contemplation</l>
+               <l>
+                  <hi>Divine,</hi>
+               </l>
+               <l>
+                  <hi>Like thine?</hi>
+               </l>
+               <l>
+                  <hi>Such know the beating of thy Pulse whose</hi> traffick</l>
+               <l>
+                  <hi>VVas wholly so</hi> Cherubick <hi>and</hi> Seraphick,</l>
+               <l>
+                  <hi>That it evince, 'tis not</hi> haeretical</l>
+               <l>
+                  <hi>To say,</hi> Angels may be Corporeal.</l>
+               <l>
+                  <hi>His</hi> holy life, <hi>a silent</hi> check <hi>to all</hi>
+               </l>
+               <l>
+                  <hi>The rout of</hi> Vices, <hi>was: his</hi> Pen <hi>the</hi> Maul</l>
+               <l>
+                  <hi>Of Sects</hi>
+               </l>
+               <l>
+                  <hi>And Smects.</hi>
+               </l>
+               <l>
+                  <hi>His name did more perfume the Church, than Gum</hi>
+               </l>
+               <pb facs="tcp:58874:53"/>
+               <l>
+                  <hi>Of</hi> Stacte, Onycha, <hi>and</hi> Galbanum</l>
+               <l>
+                  <hi>Did</hi> Moses sacred Tent; <hi>and certainly,</hi>
+               </l>
+               <l>
+                  <hi>VVhil'st</hi> Hall<hi>'s remembred,</hi> Bishop <hi>cannot die.</hi>
+               </l>
+               <l>
+                  <hi>And that will be, till</hi> Books <hi>shall be</hi> calcin'd,</l>
+               <l>
+                  <hi>VVith th'</hi> Elements <hi>above; and all refin'd,</hi>
+               </l>
+               <l>
+                  <hi>At the last conflagration—</hi>
+               </l>
+               <l>
+                  <hi>Learned</hi> Armagh <hi>to honour this his day,</hi>
+               </l>
+               <l>
+                  <hi>His</hi> Usher <hi>was, and Heaven-ward led the way.</hi>
+               </l>
+               <l>
+                  <hi>VVhen aged</hi> Durham <hi>shall remove his station,</hi>
+               </l>
+               <l>
+                  <hi>How great, how glorious a</hi> Constellation</l>
+               <l>
+                  <hi>In th'</hi> Orb Empyreal <hi>wil they make</hi> those three</l>
+               <l>
+                  <hi>That will out-shine the radiant</hi> Cassiopee.</l>
+               <l>
+                  <hi>But stay: these blundring lines do</hi> wrong the blest,</l>
+               <l>
+                  <hi>Let</hi> Yare <hi>and</hi> Isca <hi>murmur out the rest:</hi>
+               </l>
+               <l>
+                  <hi>Only our dropping tears shall never stint,</hi>
+               </l>
+               <l>
+                  <hi>Till on his</hi> Marble <hi>they these words imprint:</hi>
+               </l>
+               <l>Maugre the peevish World<hi>'s</hi> complaint,</l>
+               <l>Here lies a Bishop and a Saint.</l>
+               <pb facs="tcp:58874:54"/>
+               <l>
+                  <hi>VVhom</hi> Ashby
+<note n="*" place="margin">de-la-mouch</note>
+                  <hi>bred, and</hi> Granta <hi>nurs'd</hi>
+               </l>
+               <l>
+                  <hi>VVhom</hi> Halsted, <hi>and old</hi> Walth am <hi>first</hi>
+               </l>
+               <l>
+                  <hi>To rouz the stupid VVorld from sloth,</hi>
+               </l>
+               <l>
+                  <hi>Heard thund'ring with a Golden Mouth,</hi>
+               </l>
+               <l>
+                  <hi>VVhom</hi> Wor'ster <hi>next did</hi> dignifie,</l>
+               <l>
+                  <hi>And honoured with her</hi> Deanry:</l>
+               <l>
+                  <hi>VVhom</hi> Exon <hi>lent a</hi> Mitred wreath,</l>
+               <l>
+                  <hi>And</hi> Norwich <hi>where he ceas'd to breath.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>These all with one joint voice do cry,</hi>
+               </l>
+               <l>
+                  <hi>Death's vain attempt, what doth it mean?</hi>
+               </l>
+               <l>
+                  <hi>My</hi> Son, <hi>my</hi> Pupil, Pastor, Dean,</l>
+               <l>
+                  <hi>My</hi> rev'rend Father <hi>cannot die.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>Deflevit <hi>H. N.</hi> B. D.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:58874:54"/>
+            <head>In Obitum Amplissimi Pa<g ref="char:EOLhyphen"/>tris <hi>J.H.</hi> Episcopi Nor<g ref="char:EOLhyphen"/>vicensis.</head>
+            <head type="sub">Iambi recti.</head>
+            <lg>
+               <l>
+                  <hi>INdulte coeli tam benigno munere,</hi>
+               </l>
+               <l>
+                  <hi>Quantis tuorum luctibus refers pedem,</hi>
+               </l>
+               <l>
+                  <hi>Facunde Praeful! quo domante multiceps</hi>
+               </l>
+               <l>
+                  <hi>Pecu, profanas ordini intentans saco</hi>
+               </l>
+               <l>
+                  <hi>Latè ruinas, concidit; quo vindice,</hi>
+               </l>
+               <l>
+                  <hi>Censûs secundi Flamen auctus infulâ</hi>
+               </l>
+               <l>
+                  <hi>Nondum superbit; siquibus distinguere</hi>
+               </l>
+               <l>
+                  <hi>Humana brutis arma jam cordi siet;</hi>
+               </l>
+               <pb facs="tcp:58874:55"/>
+               <l>
+                  <hi>Mentis{que} doctae si tropaea viribus</hi>
+               </l>
+               <l>
+                  <hi>Nequam robustis praeferant. Olim tuos</hi>
+               </l>
+               <l>
+                  <hi>Sensit lacertos factio Brownistica:</hi>
+               </l>
+               <l>
+                  <hi>Antistes ille septicolli culmine,</hi>
+               </l>
+               <l>
+                  <hi>Superbus olim sensit. Ʋt tantùm cluat</hi>
+               </l>
+               <l>Sagata <hi>virtus, neutiquam</hi> toga <hi>minor</hi>
+               </l>
+               <l>
+                  <hi>Incedis, hinc te duplicis serti decus,</hi>
+               </l>
+               <l>
+                  <hi>Oliva, laurus, gloriâ pari beat.</hi>
+               </l>
+               <l>
+                  <hi>Tricisque praepedita conscientia</hi>
+               </l>
+               <l>
+                  <hi>Quàm dexter adsis perpetim fatebitur,</hi>
+               </l>
+               <l>
+                  <hi>Quàm luculentâ nubilam ducas fide,</hi>
+               </l>
+               <l>
+                  <hi>Cujùs{que} scripti quae venusta lumina!</hi>
+               </l>
+               <l>
+                  <hi>Qualésque nervi! cuncta quàm nor maliter</hi>
+               </l>
+               <l>
+                  <hi>Concinna, queis sunt attributa partibus!</hi>
+               </l>
+               <l>
+                  <hi>Piâ{que} suavitate quem non detinent!</hi>
+               </l>
+               <l>
+                  <hi>Sed quae Camaena, dulcibus fastigiis</hi>
+               </l>
+               <l>
+                  <hi>Dignanda coeli, pergat exiles domos</hi>
+               </l>
+               <l>
+                  <hi>Rectoris alti, spiritus &amp; accolas</hi>
+               </l>
+               <l>
+                  <hi>Referre tecum? quando penè libera</hi>
+               </l>
+               <l>
+                  <hi>Mens jam senilis corticem perrumpere,</hi>
+               </l>
+               <l>
+                  <hi>Coepit catastae, &amp; limpido vesci aethere,</hi>
+               </l>
+               <l>
+                  <hi>O quanta promis indidem mysteria!</hi>
+               </l>
+               <pb facs="tcp:58874:55"/>
+               <l>
+                  <hi>At vita qualis sanctitatis! quàm pii</hi>
+               </l>
+               <l>
+                  <hi>Foecunda amoris! quám{que} nullis seculi</hi>
+               </l>
+               <l>
+                  <hi>Exulcerata cladibus, quas ordine</hi>
+               </l>
+               <l>
+                  <hi>Longo furentes, miles infractus pati!</hi>
+               </l>
+               <l>
+                  <hi>Laetisque possis impiger cervicibus.</hi>
+               </l>
+               <l>
+                  <hi>Partes in omnes qui volet te prosequi</hi>
+               </l>
+               <l>
+                  <hi>Laudum canenti quanta cresceret seges!</hi>
+               </l>
+               <l>
+                  <hi>Sed nos Galenus. —</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Instantibus amicis extempore pro<g ref="char:EOLhyphen"/>fudit</hi> J.W.M.D.C.L.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:58874:56"/>
+            <head>ERRATA.</head>
+            <p>PAg. 30. l. 21. dele <hi>to whom,</hi> p. 45. l. 14. r. <hi>nearer then,</hi> p. 20. l. 16. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, l. 18. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, p. 41. l. 10. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, p. 49. l. 22. for <hi>no</hi> r. <hi>we,</hi> p. 54. l. 8. dele <hi>put,</hi> p. 55. l. 15. dele <hi>the,</hi> p. 77. l. 20. for <hi>we</hi> read <hi>they.</hi> Verses. p. 2. l. 14. r. <hi>umbrae,</hi> p. 3. l. 14. r. <hi>Albam.</hi> Title <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:58874:56"/>
+            <head>A Catalogue of some Books Printed for, and sold by <hi>Edw. Dod</hi> at the <hi>Gun</hi> in <hi>Ivy-lane.</hi>
+            </head>
+            <p>AN entire Commentary upon the whole Old Testament, in 4 Vol. in Fol. wherein the divers Translations and Expositions literal and mystical, of all the most famous Commentators both Anci<g ref="char:EOLhyphen"/>ent and Modern are propounded, examined, and judged of, for the more full satisfaction of the stu<g ref="char:EOLhyphen"/>dious Reader in all things, which compleateth the Authors Comment on the whole Bible, a work, the like to which hath never yet been pub<g ref="char:EOLhyphen"/>lished in English by any man, written by <hi>John Mayer</hi> Doctor in Divinity.</p>
+            <p>The Expiation of a Sinner in a Commentary on the Epistle to the <hi>Hebrews,</hi> Fol. by <hi>T. L.</hi> D. D. a learned and reverend Divine.</p>
+            <p>The Justification of a sinner being the main ar<g ref="char:EOLhyphen"/>gument of S. <hi>Pauls</hi> Epistle to the <hi>Galathians,</hi> Fol. written by the Author of the Expiation of a sinner.</p>
+            <p>
+               <hi>Thomae Leshintonii Logica analytica de principiis, Regulis &amp; usu Rationis Rectae.</hi> 8.</p>
+            <p>The Angel-Guardian, proved by the light of Nature, beams of Scripture, and consent of many Ancient and Modern Writers untainted with Popery: by <hi>Robert Dingley</hi> Master of Arts, late Fellow of <hi>Magdalen</hi> College in <hi>Oxford,</hi> 8.</p>
+            <p>
+               <hi>America,</hi> or an exact description of the <hi>West-In<g ref="char:EOLhyphen"/>dies,</hi>
+               <pb facs="tcp:58874:57"/>especially of those Provinces under the Do<g ref="char:EOLhyphen"/>minion of <hi>Spain</hi> in which not only the Nature and Climate of the place, with the Commodities it af<g ref="char:EOLhyphen"/>fordeth is fully described; but also plain and full directions given for the right ordering of the same, so as to fit them for the use of the Inhabi<g ref="char:EOLhyphen"/>tants and also for transportation the like never yet published in <hi>English,</hi> faithfully related by <hi>N. N.</hi> Gent. in 8.</p>
+            <p>Natures Paradox, or the Innocent Impostor, a pleasant Polonian History, translated out of <hi>French</hi> into <hi>English,</hi> by Major <hi>John Wright,</hi> 4.</p>
+            <p>Poems, Songs and Sonnets, written by <hi>Richard Lovelac.</hi> Esq. 8.</p>
+            <p>The Life and Death of Mr. <hi>Carter,</hi> with other Tracts written by his son Mr. <hi>John Carter,</hi> Minister of Gods Word in the City of <hi>Norwich,</hi> 8.</p>
+            <p>Directions for writing of true English by <hi>Ri<g ref="char:EOLhyphen"/>chard Hodges</hi> in 8.</p>
+            <p>The Reign of King <hi>Charls</hi> faithfully and impar<g ref="char:EOLhyphen"/>tially delivered and disposed into Annals by <hi>H.L.</hi> Esq. Fol. And newly Enlarged and Corrected by the Author.</p>
+            <p>Judgement and Mercy; or the plague of Frogs inslicted, removed: delivered in nine Sermons, by that late Reverend and Learned Divine, <hi>Mr. Jo<g ref="char:EOLhyphen"/>sias Shute,</hi> 4.</p>
+            <p>The safe way to Glory, in several exercises of general use, by <hi>William Smith, Mr.</hi> of <hi>Arts, R.</hi> of <hi>Cotton,</hi> in <hi>Suffolk.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58874:57"/>
+         </div>
+      </back>
+   </text>
+</TEI>
